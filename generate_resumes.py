@@ -1,9 +1,11 @@
 import os
 import random
 from faker import Faker
-from docx import Document
+from reportlab.lib.pagesizes import letter
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 
-# 1. Create the output folder if it doesn't exist
+# Create the output folder if it doesn't exist
 if not os.path.exists("resumes"):
     os.makedirs("resumes")
 
@@ -46,9 +48,20 @@ degree_types = [
     "B.S. Mathematics"
 ]
 
+universities = [
+    "Harvard University",
+    "Stanford University",
+    "MIT",
+    "UC Berkeley",
+    "Columbia University",
+    "Cornell University",
+    "NYU",
+    "Carnegie Mellon University"
+]
+
 def generate_base_background():
     return {
-        "university": fake.university(),
+        "university": random.choice(universities),
         "grad_year": random.randint(2015, 2020),
         "degree": random.choice(degree_types),
         "gpa": round(random.uniform(3.0, 4.0), 2),
@@ -59,33 +72,50 @@ def generate_base_background():
         "buzzword_2": fake.bs().title()
     }
 
+styles = getSampleStyleSheet()
+
 number_of_resume_sets = 100
 
 for i in range(number_of_resume_sets):
     base = generate_base_background()
     
     for profile in candidate_profiles:
-        doc = Document()
+        filename = f"resumes/{i:03d}_{profile['group']}_{profile['name'].replace(' ', '_')}.pdf"
         
-        # Header
-        doc.add_heading(profile["name"], 0)
-        doc.add_paragraph(f"Email: {profile['name'].replace(' ', '.').lower()}@example.com | Phone: {fake.phone_number()}")
+        doc = SimpleDocTemplate(
+            filename,
+            pagesize=letter,
+            rightMargin=54,
+            leftMargin=54,
+            topMargin=54,
+            bottomMargin=54
+        )
         
-        # Experience
-        doc.add_heading("Professional Experience", level=1)
-        doc.add_heading(f"{base['job_title']}\n{base['company_1']}", level=2)
-        doc.add_paragraph(f"• Spearheaded projects involving {base['buzzword_1']}.")
-        doc.add_paragraph(f"• Collaborated with cross-functional teams to deliver scalable solutions.")
+        story = []
         
-        doc.add_heading(f"Junior {base['job_title']}\n{base['company_2']}", level=2)
-        doc.add_paragraph(f"• Optimized legacy systems focusing on {base['buzzword_2']}.")
+        # Candidate Name & Contact Info
+        story.append(Paragraph(profile["name"], styles['Title']))
+        contact_info = f"Email: {profile['name'].replace(' ', '.').lower()}@example.com | Phone: {fake.phone_number()}"
+        story.append(Paragraph(contact_info, styles['Normal']))
+        story.append(Spacer(1, 12))
         
-        # Education
-        doc.add_heading("Education", level=1)
-        doc.add_paragraph(f"{base['degree']}, {base['university']} (Class of {base['grad_year']})")
-        doc.add_paragraph(f"Cumulative GPA: {base['gpa']}")
+        # Professional Experience Section
+        story.append(Paragraph("Professional Experience", styles['Heading1']))
+        story.append(Paragraph(f"{base['job_title']} — {base['company_1']}", styles['Heading2']))
+        story.append(Paragraph(f"• Spearheaded projects involving {base['buzzword_1']}.", styles['Normal']))
+        story.append(Paragraph("• Collaborated with cross-functional teams to deliver scalable solutions.", styles['Normal']))
+        story.append(Spacer(1, 8))
         
-        filename = f"resumes/{i:03d}_{profile['group']}_{profile['name'].replace(' ', '_')}.docx"
-        doc.save(filename)
+        story.append(Paragraph(f"Junior {base['job_title']} — {base['company_2']}", styles['Heading2']))
+        story.append(Paragraph(f"• Optimized legacy systems focusing on {base['buzzword_2']}.", styles['Normal']))
+        story.append(Spacer(1, 12))
+        
+        # Education Section
+        story.append(Paragraph("Education", styles['Heading1']))
+        story.append(Paragraph(f"{base['degree']}, {base['university']} (Class of {base['grad_year']})", styles['Normal']))
+        story.append(Paragraph(f"Cumulative GPA: {base['gpa']}", styles['Normal']))
+        
+        # Build PDF file
+        doc.build(story)
 
-print("Resume generation complete.")
+print("PDF resume generation complete.")
