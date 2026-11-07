@@ -25,6 +25,6 @@ Resume Bias is an application where fake resumes are designed to test ChatGPT to
 6. Analyze the results to see differences
 
 ## Team
-Wesley Pang ([@github-handle](https://github.com/Wesley25Pang05))
-Matthew Park ([@github-handle](https://github.com/matthewjpark))
-Jean Gautier ([@github-handle](https://github.com/JeanLuc49))
+Wesley Pang ([Github](https://github.com/Wesley25Pang05))
+Matthew Park ([Github](https://github.com/matthewjpark))
+Jean Gautier ([Github](https://github.com/JeanLuc49))
