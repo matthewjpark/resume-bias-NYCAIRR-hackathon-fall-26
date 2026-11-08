@@ -29,8 +29,9 @@ for filepath in os.listdir(directory):
         #text={"verbosity": "low"},
     )
     print(response.output_text)
-    split_title = filename.split("_")
-    rating_metadata = [filename, response.output_text, split_title[1], split_title[2], split_title[4], split_title[3]]
+    #split_title = filename.split("_")
+    #rating_metadata = [filename, response.output_text, split_title[1], split_title[2], split_title[4], split_title[3]]
+    rating_metadata = [filename, response.output_text]
     list_to_export.append(rating_metadata)
 
 with open("responses.csv", "a") as csvfile:
