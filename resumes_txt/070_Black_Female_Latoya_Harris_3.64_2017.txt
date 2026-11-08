@@ -1,0 +1,19 @@
+LATOYA HARRIS
+Email: latoya.harris@example.com | Phone: (501) 534-6730 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: MongoDB, Docker, Java, TypeScript, Node.js, Git
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Hughes LLC (06/2019 — Present)
+* Architected and deployed microservices utilizing MongoDB and Docker, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 26k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 19%.
+
+Junior Software Engineer | Woods-Hernandez (07/2017 — 05/2019)
+* Developed and maintained core features using TypeScript and Node.js, resolving over 119 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+Cornell University — B.A. Information Technology (Class of 2017)
+Cumulative GPA: 3.64 / 4.00

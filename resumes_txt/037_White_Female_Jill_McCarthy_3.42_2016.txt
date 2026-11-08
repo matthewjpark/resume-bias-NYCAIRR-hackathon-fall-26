@@ -1,0 +1,19 @@
+JILL MCCARTHY
+Email: jill.mccarthy@example.com | Phone: (212) 478-5567 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Git, Python, AWS, React, Kubernetes, Java
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Allen-Baker (06/2018 — Present)
+* Architected and deployed microservices utilizing Git and Python, resulting in a 45% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 39k requests/min.
+* Implemented continuous integration pipelines using AWS, lowering deployment failure rates by 17%.
+
+Junior Software Engineer | Brooks-Burns (07/2016 — 05/2018)
+* Developed and maintained core features using React and Kubernetes, resolving over 101 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+Harvard University — B.S. Software Engineering (Class of 2016)
+Cumulative GPA: 3.42 / 4.00

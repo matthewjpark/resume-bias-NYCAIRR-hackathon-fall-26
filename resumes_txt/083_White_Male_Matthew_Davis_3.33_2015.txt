@@ -1,0 +1,19 @@
+MATTHEW DAVIS
+Email: matthew.davis@example.com | Phone: (519) 242-5824 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Node.js, React, PostgreSQL, Git, MongoDB, TypeScript
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Watts LLC (06/2017 — Present)
+* Architected and deployed microservices utilizing Node.js and React, resulting in a 38% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 30k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 27%.
+
+Junior Software Engineer | Hill Group (07/2015 — 05/2017)
+* Developed and maintained core features using Git and MongoDB, resolving over 116 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+MIT — B.S. Mathematics (Class of 2015)
+Cumulative GPA: 3.33 / 4.00

@@ -1,0 +1,19 @@
+TYRONE JACKSON
+Email: tyrone.jackson@example.com | Phone: (627) 330-2680 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Git, Python, PostgreSQL, Kubernetes, React, AWS
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Anderson PLC (06/2019 — Present)
+* Architected and deployed microservices utilizing Git and Python, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 29k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 24%.
+
+Junior Software Engineer | Williams-Owens (07/2017 — 05/2019)
+* Developed and maintained core features using Kubernetes and React, resolving over 73 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+Columbia University — B.S. Computer Science (Class of 2017)
+Cumulative GPA: 3.74 / 4.00

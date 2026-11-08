@@ -1,0 +1,19 @@
+DARNELL WILLIAMS
+Email: darnell.williams@example.com | Phone: (837) 265-8503 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Git, Node.js, C++, Python, Docker, Kubernetes
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Glenn, Parker and Taylor (06/2017 — Present)
+* Architected and deployed microservices utilizing Git and Node.js, resulting in a 23% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 16k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 24%.
+
+Junior Software Engineer | Small, Warren and Ross (07/2015 — 05/2017)
+* Developed and maintained core features using Python and Docker, resolving over 56 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+Carnegie Mellon University — B.S. Software Engineering (Class of 2015)
+Cumulative GPA: 3.27 / 4.00

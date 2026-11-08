@@ -1,0 +1,19 @@
+JAY MURPHY
+Email: jay.murphy@example.com | Phone: (435) 651-2030 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: TypeScript, Git, React, GraphQL, MongoDB, Python
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Jones, Dudley and Carey (06/2022 — Present)
+* Architected and deployed microservices utilizing TypeScript and Git, resulting in a 24% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 39k requests/min.
+* Implemented continuous integration pipelines using React, lowering deployment failure rates by 23%.
+
+Junior Software Engineer | Garcia-Reynolds (07/2020 — 05/2022)
+* Developed and maintained core features using GraphQL and MongoDB, resolving over 149 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+Columbia University — B.S. Software Engineering (Class of 2020)
+Cumulative GPA: 3.58 / 4.00

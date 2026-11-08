@@ -1,0 +1,19 @@
+MATTHEW DAVIS
+Email: matthew.davis@example.com | Phone: (226) 263-3611 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Git, CI/CD, PostgreSQL, TypeScript, GraphQL, MongoDB
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Powell-Allen (06/2019 — Present)
+* Architected and deployed microservices utilizing Git and CI/CD, resulting in a 42% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 18k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 16%.
+
+Junior Software Engineer | Davenport-Perez (07/2017 — 05/2019)
+* Developed and maintained core features using TypeScript and GraphQL, resolving over 91 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+MIT — B.A. Information Technology (Class of 2017)
+Cumulative GPA: 3.3 / 4.00

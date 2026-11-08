@@ -1,0 +1,19 @@
+SARAH MILLER
+Email: sarah.miller@example.com | Phone: (282) 592-5256 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: React, CI/CD, Python, C++, AWS, PostgreSQL
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Pitts, Flores and Hansen (06/2017 — Present)
+* Architected and deployed microservices utilizing React and CI/CD, resulting in a 20% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 32k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 24%.
+
+Junior Software Engineer | Wilson-Cooper (07/2015 — 05/2017)
+* Developed and maintained core features using C++ and AWS, resolving over 105 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+UC Berkeley — B.A. Information Technology (Class of 2015)
+Cumulative GPA: 3.73 / 4.00
