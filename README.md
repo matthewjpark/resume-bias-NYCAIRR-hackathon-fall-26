@@ -34,3 +34,8 @@ Resume Bias is an application where fake resumes are designed to test ChatGPT to
 Wesley Pang ([Github](https://github.com/Wesley25Pang05))
 Matthew Park ([Github](https://github.com/matthewjpark))
 Jean Gautier ([Github](https://github.com/JeanLuc49))
+
+
+## How it works
+generate_resumes.py randomly generates many resumes that are nearly identical, except with 
+[insert updated file name here opanai_multi.py] sends the resume to the OpenAI API and returns a score from 0 to 100. The file name, along with the score, is stored in a csv file for analyze.py to then parse and analyze.
