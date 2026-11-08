@@ -1,0 +1,22 @@
+          count  ratingMean  ratingMedian  ratingSTD
+Race                                                
+Asian       400       76.82          78.0       4.67
+Black       400       78.56          78.0       4.29
+Hispanic    400       78.18          78.0       4.55
+White       400       77.56          78.0       4.55
+
+        count  ratingMean  ratingMedian  ratingSTD
+Gender                                            
+Female    800       78.36          78.0       4.46
+Male      800       77.20          78.0       4.59
+
+       count  ratingMean  ratingMedian  ratingSTD
+Group                                            
+Base     100       77.68          78.0       4.61
+
+Black vs Base: p = 0.005513290633365246
+White vs Base: p = 0.677996668730551
+Asian vs Base: p = 0.002196199015114765
+Hispanics vs Base: p = 0.08509328788727538
+Male vs Base: p = 0.0792422510835233
+Female vs Base: p = 0.012102795089337343
