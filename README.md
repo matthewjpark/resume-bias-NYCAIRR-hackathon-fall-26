@@ -17,6 +17,11 @@ Resume Bias is an application where fake resumes are designed to test ChatGPT to
    ```env
    OPENAI_API_KEY=your-generated-key
    ```
+   or 
+   ```api_key.py
+   def get_openai_key() -> str:
+      return "sk-proj-O30B8..."
+    ```
 4. Create resumes. Currently, there are premade candidates, degree types, and universities. You can edit these; the premade versions are the test we used. To create the resumes, run:
    ```bash
    python generate_resumes.py
@@ -26,9 +31,26 @@ Resume Bias is an application where fake resumes are designed to test ChatGPT to
    It then generates a random university, skills, grad year, gpa, phone number, email, degree, companies worked at with a brief description, a random second language from the 4 additional languages, and a neutral club
 
    Next, it creates a base resume with that info and also 16 unique ones with the names, zipcodes that are predominantly a certain race/soci-economic class, adds a certain ethnic langaue to each race, an ethnic or neurtral club (depending on race), and saves them to .txt files
-    
+4b. Create a directory resumes_test, and move all files in resumes_txt and base_resumes_txt to resumes_test
 5. Generate ratings with OpenAI
+```bash
+python openai_multi.py
+```
+open_ai_.py and openai_multi.py both generate the ratings, but openai_multi.py incorporates multithreading which makes it run faster.
 6. Analyze the results to see differences
+After generating the CSV from OpenAI, we need to parse the data into columns for analyze.py. To do this, run convert.py and input the name of your file. After the file is converted, it should be called output-fileName.csv. Then you will run analyze.py with the new csv to generate tables by race, gender, and the base. It will also generate p-values to determine significance (p < 0.05)
+   ```bash
+   python convert.py
+   ```
+   ```text
+   What is your csv file name? fileName
+   ```
+   ```bash
+   python analyze.py
+   ```
+   ```text
+   What is your csv file name? output-fileName
+   ```
 
 ## Team
 Wesley Pang ([Github](https://github.com/Wesley25Pang05))
