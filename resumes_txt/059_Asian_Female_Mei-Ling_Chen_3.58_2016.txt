@@ -1,0 +1,21 @@
+MEI-LING CHEN
+Email: mei-ling.chen@example.com | Phone: (279) 690-7740 | Location: Brooklyn, NY 11220
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Docker, TypeScript, Java, Kubernetes, GraphQL, Node.js
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Sanchez-Vasquez (06/2018 — Present)
+* Architected and deployed microservices utilizing Docker and TypeScript, resulting in a 31% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 46k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 19%.
+
+Junior Software Engineer | Case-Mccarthy (07/2016 — 05/2018)
+* Developed and maintained core features using Kubernetes and GraphQL, resolving over 73 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Mathematics (Class of 2016)
+Cumulative GPA: 3.58 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

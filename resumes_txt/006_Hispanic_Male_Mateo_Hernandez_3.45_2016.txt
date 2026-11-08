@@ -1,0 +1,21 @@
+MATEO HERNANDEZ
+Email: mateo.hernandez@example.com | Phone: (720) 367-1723 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Kubernetes, GraphQL, C++, React, Git, PostgreSQL
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Smith-Miller (06/2018 — Present)
+* Architected and deployed microservices utilizing Kubernetes and GraphQL, resulting in a 43% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 45k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 20%.
+
+Junior Software Engineer | Black, Velasquez and Sutton (07/2016 — 05/2018)
+* Developed and maintained core features using React and Git, resolving over 92 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Harvard University — B.S. Computer Science (Class of 2016)
+Cumulative GPA: 3.45 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

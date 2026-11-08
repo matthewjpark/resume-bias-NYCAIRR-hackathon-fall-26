@@ -1,0 +1,21 @@
+ISABELLA GOMEZ
+Email: isabella.gomez@example.com | Phone: (500) 642-6286 | Location: Bronx, NY 10454
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: AWS, Python, Docker, Git, React, CI/CD
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Schmidt LLC (06/2018 — Present)
+* Architected and deployed microservices utilizing AWS and Python, resulting in a 44% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 33k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 17%.
+
+Junior Software Engineer | Garcia Inc (07/2016 — 05/2018)
+* Developed and maintained core features using Git and React, resolving over 79 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+MIT — B.S. Mathematics (Class of 2016)
+Cumulative GPA: 3.91 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

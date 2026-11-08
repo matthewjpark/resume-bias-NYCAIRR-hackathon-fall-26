@@ -1,0 +1,21 @@
+GREG BAKER
+Email: greg.baker@example.com | Phone: (477) 306-8970 | Location: New York, NY 10013
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: PostgreSQL, Java, C++, Kubernetes, React, Python
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Berger and Sons (06/2022 — Present)
+* Architected and deployed microservices utilizing PostgreSQL and Java, resulting in a 21% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 49k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 18%.
+
+Junior Software Engineer | Bruce, Bishop and Jones (07/2020 — 05/2022)
+* Developed and maintained core features using Kubernetes and React, resolving over 112 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Carnegie Mellon University — B.S. Software Engineering (Class of 2020)
+Cumulative GPA: 3.23 / 4.00
+Member, Software Engineering Student Association

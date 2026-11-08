@@ -1,0 +1,21 @@
+EMILY WALSH
+Email: emily.walsh@example.com | Phone: (792) 313-4365 | Location: New York, NY 10021
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Git, TypeScript, Node.js, React, Kubernetes, CI/CD
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Silva, Simmons and Payne (06/2017 — Present)
+* Architected and deployed microservices utilizing Git and TypeScript, resulting in a 40% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 40k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 19%.
+
+Junior Software Engineer | Torres-Wallace (07/2015 — 05/2017)
+* Developed and maintained core features using React and Kubernetes, resolving over 81 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+MIT — B.S. Computer Science (Class of 2015)
+Cumulative GPA: 3.39 / 4.00
+Member, Software Engineering Student Association

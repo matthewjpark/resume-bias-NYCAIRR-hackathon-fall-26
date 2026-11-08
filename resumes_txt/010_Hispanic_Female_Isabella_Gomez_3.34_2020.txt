@@ -1,0 +1,21 @@
+ISABELLA GOMEZ
+Email: isabella.gomez@example.com | Phone: (940) 223-4157 | Location: Bronx, NY 10454
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: C++, PostgreSQL, Kubernetes, Docker, TypeScript, Node.js
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Martin-Mason (06/2022 — Present)
+* Architected and deployed microservices utilizing C++ and PostgreSQL, resulting in a 28% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 16k requests/min.
+* Implemented continuous integration pipelines using Kubernetes, lowering deployment failure rates by 29%.
+
+Junior Software Engineer | Brown PLC (07/2020 — 05/2022)
+* Developed and maintained core features using Docker and TypeScript, resolving over 97 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Mathematics (Class of 2020)
+Cumulative GPA: 3.34 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

@@ -1,0 +1,21 @@
+ISABELLA GOMEZ
+Email: isabella.gomez@example.com | Phone: (424) 588-6519 | Location: Bronx, NY 10454
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Node.js, CI/CD, Python, Git, PostgreSQL, Java
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Santana, Bonilla and Smith (06/2021 — Present)
+* Architected and deployed microservices utilizing Node.js and CI/CD, resulting in a 36% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 35k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Brooks and Sons (07/2019 — 05/2021)
+* Developed and maintained core features using Git and PostgreSQL, resolving over 81 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Cornell University — B.A. Information Technology (Class of 2019)
+Cumulative GPA: 3.26 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

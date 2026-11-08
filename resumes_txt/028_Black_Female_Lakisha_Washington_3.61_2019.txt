@@ -1,0 +1,21 @@
+LAKISHA WASHINGTON
+Email: lakisha.washington@example.com | Phone: (469) 903-9664 | Location: Brooklyn, NY 11212
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Java, Git, MongoDB, React, PostgreSQL, C++
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Cox, Barry and Arellano (06/2021 — Present)
+* Architected and deployed microservices utilizing Java and Git, resulting in a 35% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 37k requests/min.
+* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Key, Mills and Jackson (07/2019 — 05/2021)
+* Developed and maintained core features using React and PostgreSQL, resolving over 98 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Columbia University — B.A. Information Technology (Class of 2019)
+Cumulative GPA: 3.61 / 4.00
+Member, National Society of Black Engineers (NSBE)

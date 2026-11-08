@@ -1,0 +1,21 @@
+SARAH MILLER
+Email: sarah.miller@example.com | Phone: (739) 690-5170 | Location: New York, NY 10021
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: TypeScript, Java, PostgreSQL, GraphQL, Node.js, React
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Fuller, Caldwell and Peters (06/2018 — Present)
+* Architected and deployed microservices utilizing TypeScript and Java, resulting in a 30% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 28k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 17%.
+
+Junior Software Engineer | Hicks-Mitchell (07/2016 — 05/2018)
+* Developed and maintained core features using GraphQL and Node.js, resolving over 146 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Computer Science (Class of 2016)
+Cumulative GPA: 3.83 / 4.00
+Member, Software Engineering Student Association

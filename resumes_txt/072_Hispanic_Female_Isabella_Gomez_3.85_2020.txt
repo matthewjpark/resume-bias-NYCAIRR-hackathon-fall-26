@@ -1,0 +1,21 @@
+ISABELLA GOMEZ
+Email: isabella.gomez@example.com | Phone: (780) 687-8235 | Location: Bronx, NY 10454
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, Java, PostgreSQL, Python, C++, GraphQL
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Parsons Ltd (06/2022 — Present)
+* Architected and deployed microservices utilizing MongoDB and Java, resulting in a 35% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 21k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Gates-Rogers (07/2020 — 05/2022)
+* Developed and maintained core features using Python and C++, resolving over 138 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+NYU — B.A. Information Technology (Class of 2020)
+Cumulative GPA: 3.85 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

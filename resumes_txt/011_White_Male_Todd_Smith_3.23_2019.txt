@@ -1,0 +1,21 @@
+TODD SMITH
+Email: todd.smith@example.com | Phone: (426) 300-1826 | Location: New York, NY 10013
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: AWS, Docker, C++, Kubernetes, MongoDB, Node.js
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | English-Conner (06/2021 — Present)
+* Architected and deployed microservices utilizing AWS and Docker, resulting in a 25% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 44k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 15%.
+
+Junior Software Engineer | Olson, Vaughan and Alvarez (07/2019 — 05/2021)
+* Developed and maintained core features using Kubernetes and MongoDB, resolving over 65 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION & ORGANIZATIONS
+MIT — B.A. Information Technology (Class of 2019)
+Cumulative GPA: 3.23 / 4.00
+Member, Software Engineering Student Association

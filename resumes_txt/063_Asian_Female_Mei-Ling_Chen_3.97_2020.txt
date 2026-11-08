@@ -1,0 +1,21 @@
+MEI-LING CHEN
+Email: mei-ling.chen@example.com | Phone: (539) 988-2010 | Location: Brooklyn, NY 11220
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: PostgreSQL, AWS, MongoDB, Node.js, Git, GraphQL
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Huber Group (06/2022 — Present)
+* Architected and deployed microservices utilizing PostgreSQL and AWS, resulting in a 43% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 24k requests/min.
+* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Lloyd, Cook and Hancock (07/2020 — 05/2022)
+* Developed and maintained core features using Node.js and Git, resolving over 81 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Carnegie Mellon University — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.97 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

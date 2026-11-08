@@ -1,0 +1,21 @@
+ISABELLA GOMEZ
+Email: isabella.gomez@example.com | Phone: (863) 675-1563 | Location: Bronx, NY 10454
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, Java, AWS, Kubernetes, PostgreSQL, Docker
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Brandt, Harris and Harris (06/2019 — Present)
+* Architected and deployed microservices utilizing MongoDB and Java, resulting in a 21% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 40k requests/min.
+* Implemented continuous integration pipelines using AWS, lowering deployment failure rates by 25%.
+
+Junior Software Engineer | Wright Inc (07/2017 — 05/2019)
+* Developed and maintained core features using Kubernetes and PostgreSQL, resolving over 123 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Computer Science (Class of 2017)
+Cumulative GPA: 3.96 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)
