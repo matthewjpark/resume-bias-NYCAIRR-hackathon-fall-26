@@ -127,7 +127,7 @@ Cumulative GPA: {base['gpa']} / 4.00
 
     # 2. Generate and save the 2,000 Candidate Variant Resumes
     for profile in candidate_profiles:
-        filename = f"{named_folder}/{i:03d}_{profile['group']}_{profile['name'].replace(' ', '_')}.txt"
+        filename = f"{named_folder}/{i:03d}_{profile['group']}_{profile['name'].replace(' ', '_')}_{base['gpa']}_{base['grad_year']}.txt"
         
         resume_content = f"""{profile['name'].upper()}
 Email: {profile['name'].replace(' ', '.').lower()}@example.com | Phone: {base['phone']} | Location: New York, NY
