@@ -60,4 +60,4 @@ Jean Gautier ([Github](https://github.com/JeanLuc49))
 
 ## How it works
 generate_resumes.py randomly generates many resumes that are nearly identical. For each base resume, it also generates 3 resumes of coresponding to each demographic: white male, white female, black male, etc. These resumes are the same as the base resumes except that the name and other information on the resume can be used to deduce the applicant's race and gender.
-openai_multi.py sends the resume to the OpenAI API and returns a score from 0 to 100. The file name, along with the score, is stored in a csv file for analyze.py to then parse and analyze.
+openai_multi.py sends the resume to the OpenAI API and returns a score from 0 to 100. The file name, along with the score, is stored in a csv file for convert.py to create columns for analyze.py to then parse and analyze using the ratings to run t-tests, write tables and calculate p-values to table.txt, where p < 0.05 shows the difference is statistically significant. 
