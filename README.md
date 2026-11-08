@@ -21,6 +21,12 @@ Resume Bias is an application where fake resumes are designed to test ChatGPT to
    ```bash
    python generate_resumes.py
    ```
+   There are 20 preset names, 10 male, 10 female, and there are 5 typically black and 5 typically white names for each gender.
+
+   It then generates a random university, skills, grad year, gpa, phone number, email, degree, companies worked at with a brief description.
+
+   Next, it creates a base resume with that info and also 20 unique ones with the names and saves them to .txt files
+    
 5. Generate ratings with OpenAI
 6. Analyze the results to see differences
 

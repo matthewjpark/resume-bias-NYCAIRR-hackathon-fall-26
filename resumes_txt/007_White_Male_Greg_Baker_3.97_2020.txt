@@ -1,0 +1,19 @@
+GREG BAKER
+Email: greg.baker@example.com | Phone: (259) 752-8081 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: C++, Node.js, CI/CD, Docker, TypeScript, GraphQL
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Jordan-Chang (06/2022 — Present)
+* Architected and deployed microservices utilizing C++ and Node.js, resulting in a 23% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 47k requests/min.
+* Implemented continuous integration pipelines using CI/CD, lowering deployment failure rates by 30%.
+
+Junior Software Engineer | Baker PLC (07/2020 — 05/2022)
+* Developed and maintained core features using Docker and TypeScript, resolving over 98 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION
+MIT — B.A. Information Technology (Class of 2020)
+Cumulative GPA: 3.97 / 4.00

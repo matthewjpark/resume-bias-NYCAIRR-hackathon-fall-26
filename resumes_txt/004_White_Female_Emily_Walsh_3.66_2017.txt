@@ -1,0 +1,19 @@
+EMILY WALSH
+Email: emily.walsh@example.com | Phone: (612) 611-9534 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: React, Kubernetes, Git, Python, MongoDB, GraphQL
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Ochoa, Brown and Vang (06/2019 — Present)
+* Architected and deployed microservices utilizing React and Kubernetes, resulting in a 28% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 34k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 15%.
+
+Junior Software Engineer | Higgins, Jones and Dickerson (07/2017 — 05/2019)
+* Developed and maintained core features using Python and MongoDB, resolving over 78 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Columbia University — B.S. Software Engineering (Class of 2017)
+Cumulative GPA: 3.66 / 4.00

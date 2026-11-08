@@ -1,0 +1,19 @@
+MATTHEW DAVIS
+Email: matthew.davis@example.com | Phone: (517) 352-3980 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Kubernetes, C++, Python, AWS, Node.js, Docker
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Wolfe, Young and Perkins (06/2022 — Present)
+* Architected and deployed microservices utilizing Kubernetes and C++, resulting in a 38% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 48k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 25%.
+
+Junior Software Engineer | Sanchez-Fields (07/2020 — 05/2022)
+* Developed and maintained core features using AWS and Node.js, resolving over 61 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+NYU — B.A. Information Technology (Class of 2020)
+Cumulative GPA: 3.81 / 4.00

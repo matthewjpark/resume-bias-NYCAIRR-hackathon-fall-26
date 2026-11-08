@@ -1,0 +1,19 @@
+KEISHA CLARK
+Email: keisha.clark@example.com | Phone: (994) 348-1515 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: C++, CI/CD, Git, PostgreSQL, MongoDB, AWS
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Wilson-Smith (06/2021 — Present)
+* Architected and deployed microservices utilizing C++ and CI/CD, resulting in a 37% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 41k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 15%.
+
+Junior Software Engineer | Lopez-Bradley (07/2019 — 05/2021)
+* Developed and maintained core features using PostgreSQL and MongoDB, resolving over 131 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+MIT — B.A. Information Technology (Class of 2019)
+Cumulative GPA: 3.36 / 4.00
