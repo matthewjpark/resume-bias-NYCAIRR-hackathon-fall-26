@@ -13,22 +13,33 @@ except:
 rows = []
 for filename, rating in zip(table["FileName"], table["Rating"]):
     try:
+        rating = float(rating)
         parts = filename[:-4].split("_")
-        rows.append({
-            "FileName": filename,
-            "Rating": float(rating),
-            "Race": parts[1],
-            "Gender": parts[2],
-            "GPA": float(parts[-2]),
-            "Graduating Year": int(parts[-1]),
-            "Set": parts[0],
-            "Name": "_".join(parts[3:-2]),
-        })
+
+        if parts[1] == "base":
+            rows.append({
+                "FileName": filename,
+                "Rating": rating,
+                "Race": "NA",
+                "Gender": "NA",
+                "GPA": float(parts[3]),
+                "Graduating Year": int(parts[5]),
+                "Set": parts[0],
+                "Name": "NA",
+            })
+        else:
+            rows.append({
+                "FileName": filename,
+                "Rating": rating,
+                "Race": parts[1],
+                "Gender": parts[2],
+                "GPA": float(parts[-2]),
+                "Graduating Year": int(parts[-1]),
+                "Set": parts[0],
+                "Name": "_".join(parts[3:-2]),
+            })
     except:
-        rows.append({
-            "FileName": filename,
-            "Rating": float(rating),
-        })
+        print(f"Error for {filename}")
 
 out = pd.DataFrame(rows)
 out.to_csv(f"output-{csv}", index=False)
