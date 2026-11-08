@@ -1,0 +1,21 @@
+CARLOS MARTINEZ
+Email: carlos.martinez@example.com | Phone: (956) 316-6570 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: GraphQL, MongoDB, AWS, Git, C++, Python
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Lucas and Sons (06/2021 — Present)
+* Architected and deployed microservices utilizing GraphQL and MongoDB, resulting in a 32% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 36k requests/min.
+* Implemented continuous integration pipelines using AWS, lowering deployment failure rates by 22%.
+
+Junior Software Engineer | Moore and Sons (07/2019 — 05/2021)
+* Developed and maintained core features using Git and C++, resolving over 118 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Columbia University — B.S. Computer Science (Class of 2019)
+Cumulative GPA: 3.8 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

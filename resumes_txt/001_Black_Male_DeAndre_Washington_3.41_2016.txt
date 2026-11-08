@@ -1,0 +1,21 @@
+DEANDRE WASHINGTON
+Email: deandre.washington@example.com | Phone: (852) 479-4035 | Location: Brooklyn, NY 11207
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: TypeScript, Java, Git, PostgreSQL, Node.js, React
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Gonzalez PLC (06/2018 — Present)
+* Architected and deployed microservices utilizing TypeScript and Java, resulting in a 31% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 36k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 16%.
+
+Junior Software Engineer | Campbell, Carter and Alexander (07/2016 — 05/2018)
+* Developed and maintained core features using PostgreSQL and Node.js, resolving over 102 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+MIT — B.S. Mathematics (Class of 2016)
+Cumulative GPA: 3.41 / 4.00
+Member, National Society of Black Engineers (NSBE)

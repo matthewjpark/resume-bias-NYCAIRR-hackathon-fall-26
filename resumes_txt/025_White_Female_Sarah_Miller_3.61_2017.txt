@@ -1,0 +1,21 @@
+SARAH MILLER
+Email: sarah.miller@example.com | Phone: (368) 365-9159 | Location: New York, NY 10021
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, Node.js, C++, GraphQL, React, Java
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Harper, Preston and Cruz (06/2019 — Present)
+* Architected and deployed microservices utilizing MongoDB and Node.js, resulting in a 20% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 26k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 19%.
+
+Junior Software Engineer | James Ltd (07/2017 — 05/2019)
+* Developed and maintained core features using GraphQL and React, resolving over 94 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Computer Science (Class of 2017)
+Cumulative GPA: 3.61 / 4.00
+Member, Software Engineering Student Association

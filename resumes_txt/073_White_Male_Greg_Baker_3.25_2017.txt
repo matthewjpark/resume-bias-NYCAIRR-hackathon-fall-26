@@ -1,0 +1,21 @@
+GREG BAKER
+Email: greg.baker@example.com | Phone: (398) 975-2862 | Location: New York, NY 10013
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: CI/CD, Kubernetes, Git, Docker, GraphQL, PostgreSQL
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Montgomery-Allen (06/2019 — Present)
+* Architected and deployed microservices utilizing CI/CD and Kubernetes, resulting in a 28% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 34k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 20%.
+
+Junior Software Engineer | Brown Group (07/2017 — 05/2019)
+* Developed and maintained core features using Docker and GraphQL, resolving over 72 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Carnegie Mellon University — B.S. Mathematics (Class of 2017)
+Cumulative GPA: 3.25 / 4.00
+Member, Software Engineering Student Association

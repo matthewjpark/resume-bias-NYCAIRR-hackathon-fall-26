@@ -1,0 +1,21 @@
+CARLOS MARTINEZ
+Email: carlos.martinez@example.com | Phone: (658) 645-9576 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: AWS, Docker, GraphQL, PostgreSQL, MongoDB, CI/CD
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Roberts, Adams and Smith (06/2017 — Present)
+* Architected and deployed microservices utilizing AWS and Docker, resulting in a 30% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 29k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 16%.
+
+Junior Software Engineer | Harris, Winters and Beck (07/2015 — 05/2017)
+* Developed and maintained core features using PostgreSQL and MongoDB, resolving over 79 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.A. Information Technology (Class of 2015)
+Cumulative GPA: 3.64 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

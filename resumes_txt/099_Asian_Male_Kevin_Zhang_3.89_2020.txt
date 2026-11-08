@@ -1,0 +1,21 @@
+KEVIN ZHANG
+Email: kevin.zhang@example.com | Phone: (218) 690-5320 | Location: Flushing, NY 11355
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Python, GraphQL, Docker, C++, React, Kubernetes
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Torres-Farley (06/2022 — Present)
+* Architected and deployed microservices utilizing Python and GraphQL, resulting in a 42% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 19k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 18%.
+
+Junior Software Engineer | Thompson-Kelley (07/2020 — 05/2022)
+* Developed and maintained core features using C++ and React, resolving over 76 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Cornell University — B.S. Software Engineering (Class of 2020)
+Cumulative GPA: 3.89 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

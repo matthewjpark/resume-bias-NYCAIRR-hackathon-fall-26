@@ -1,0 +1,21 @@
+KEVIN ZHANG
+Email: kevin.zhang@example.com | Phone: (394) 422-9494 | Location: Flushing, NY 11355
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Git, Node.js, GraphQL, CI/CD, AWS, PostgreSQL
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Green, Hodges and James (06/2020 — Present)
+* Architected and deployed microservices utilizing Git and Node.js, resulting in a 36% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 37k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 28%.
+
+Junior Software Engineer | Blackburn and Sons (07/2018 — 05/2020)
+* Developed and maintained core features using CI/CD and AWS, resolving over 102 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Software Engineering (Class of 2018)
+Cumulative GPA: 3.97 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

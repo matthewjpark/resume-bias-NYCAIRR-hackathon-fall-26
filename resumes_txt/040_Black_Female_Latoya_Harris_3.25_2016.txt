@@ -1,0 +1,21 @@
+LATOYA HARRIS
+Email: latoya.harris@example.com | Phone: (597) 997-4688 | Location: Brooklyn, NY 11212
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Git, C++, PostgreSQL, Java, Kubernetes, React
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Young LLC (06/2018 — Present)
+* Architected and deployed microservices utilizing Git and C++, resulting in a 32% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 34k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 30%.
+
+Junior Software Engineer | Brooks, Nguyen and Cortez (07/2016 — 05/2018)
+* Developed and maintained core features using Java and Kubernetes, resolving over 123 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+NYU — B.S. Software Engineering (Class of 2016)
+Cumulative GPA: 3.25 / 4.00
+Member, National Society of Black Engineers (NSBE)

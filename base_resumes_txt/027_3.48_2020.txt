@@ -1,0 +1,21 @@
+CANDIDATE RESUME (ANONYMIZED)
+Location: New York, NY
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: CI/CD, React, PostgreSQL, Kubernetes, GraphQL, C++
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Lee Inc (06/2022 — Present)
+* Architected and deployed microservices utilizing CI/CD and React, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 24k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 21%.
+
+Junior Software Engineer | Smith-Obrien (07/2020 — 05/2022)
+* Developed and maintained core features using Kubernetes and GraphQL, resolving over 110 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Cornell University — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.48 / 4.00
+Member, Software Engineering Student Association

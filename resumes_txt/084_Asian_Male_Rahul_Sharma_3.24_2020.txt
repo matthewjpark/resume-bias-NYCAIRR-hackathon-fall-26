@@ -1,0 +1,21 @@
+RAHUL SHARMA
+Email: rahul.sharma@example.com | Phone: (425) 876-7866 | Location: Flushing, NY 11355
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, Node.js, React, CI/CD, Kubernetes, Git
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Jordan-Holmes (06/2022 — Present)
+* Architected and deployed microservices utilizing MongoDB and Node.js, resulting in a 37% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 19k requests/min.
+* Implemented continuous integration pipelines using React, lowering deployment failure rates by 21%.
+
+Junior Software Engineer | Evans, Cordova and Stout (07/2020 — 05/2022)
+* Developed and maintained core features using CI/CD and Kubernetes, resolving over 118 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION & ORGANIZATIONS
+MIT — B.S. Mathematics (Class of 2020)
+Cumulative GPA: 3.24 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

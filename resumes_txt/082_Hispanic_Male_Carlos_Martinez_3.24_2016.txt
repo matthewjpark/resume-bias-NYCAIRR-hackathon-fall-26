@@ -1,0 +1,21 @@
+CARLOS MARTINEZ
+Email: carlos.martinez@example.com | Phone: (934) 797-9206 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, Node.js, PostgreSQL, Java, TypeScript, Python
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Cook Inc (06/2018 — Present)
+* Architected and deployed microservices utilizing MongoDB and Node.js, resulting in a 23% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 12k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 29%.
+
+Junior Software Engineer | Crosby and Sons (07/2016 — 05/2018)
+* Developed and maintained core features using Java and TypeScript, resolving over 150 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+MIT — B.S. Mathematics (Class of 2016)
+Cumulative GPA: 3.24 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

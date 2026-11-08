@@ -1,0 +1,21 @@
+JAMAL JONES
+Email: jamal.jones@example.com | Phone: (882) 599-8235 | Location: Brooklyn, NY 11207
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: React, Node.js, MongoDB, TypeScript, Docker, Python
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Chang, Anderson and Myers (06/2019 — Present)
+* Architected and deployed microservices utilizing React and Node.js, resulting in a 36% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 35k requests/min.
+* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 20%.
+
+Junior Software Engineer | Irwin, Sparks and Fisher (07/2017 — 05/2019)
+* Developed and maintained core features using TypeScript and Docker, resolving over 88 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+NYU — B.A. Information Technology (Class of 2017)
+Cumulative GPA: 3.4 / 4.00
+Member, National Society of Black Engineers (NSBE)

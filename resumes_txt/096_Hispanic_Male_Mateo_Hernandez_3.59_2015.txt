@@ -1,0 +1,21 @@
+MATEO HERNANDEZ
+Email: mateo.hernandez@example.com | Phone: (867) 637-8002 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Docker, CI/CD, Python, Node.js, React, TypeScript
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Flores, Lindsey and Richardson (06/2017 — Present)
+* Architected and deployed microservices utilizing Docker and CI/CD, resulting in a 32% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 36k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 18%.
+
+Junior Software Engineer | Campbell Inc (07/2015 — 05/2017)
+* Developed and maintained core features using Node.js and React, resolving over 137 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+UC Berkeley — B.S. Software Engineering (Class of 2015)
+Cumulative GPA: 3.59 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

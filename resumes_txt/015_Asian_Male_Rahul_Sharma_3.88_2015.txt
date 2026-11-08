@@ -1,0 +1,21 @@
+RAHUL SHARMA
+Email: rahul.sharma@example.com | Phone: (682) 313-8176 | Location: Flushing, NY 11355
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: TypeScript, C++, Docker, Java, Git, CI/CD
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | James, Bolton and Long (06/2017 — Present)
+* Architected and deployed microservices utilizing TypeScript and C++, resulting in a 36% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 45k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 28%.
+
+Junior Software Engineer | Martin-Mueller (07/2015 — 05/2017)
+* Developed and maintained core features using Java and Git, resolving over 121 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+MIT — B.A. Information Technology (Class of 2015)
+Cumulative GPA: 3.88 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

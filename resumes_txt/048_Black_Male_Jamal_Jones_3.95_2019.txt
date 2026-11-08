@@ -1,0 +1,21 @@
+JAMAL JONES
+Email: jamal.jones@example.com | Phone: (373) 815-9211 | Location: Brooklyn, NY 11207
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Docker, Kubernetes, C++, CI/CD, PostgreSQL, React
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Buchanan-Snyder (06/2021 — Present)
+* Architected and deployed microservices utilizing Docker and Kubernetes, resulting in a 40% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 10k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Ponce Ltd (07/2019 — 05/2021)
+* Developed and maintained core features using CI/CD and PostgreSQL, resolving over 138 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Harvard University — B.S. Computer Science (Class of 2019)
+Cumulative GPA: 3.95 / 4.00
+Member, National Society of Black Engineers (NSBE)

@@ -1,0 +1,21 @@
+GREG BAKER
+Email: greg.baker@example.com | Phone: (928) 282-5654 | Location: New York, NY 10013
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: AWS, Python, Git, PostgreSQL, GraphQL, Kubernetes
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Barr, Martinez and Stokes (06/2021 — Present)
+* Architected and deployed microservices utilizing AWS and Python, resulting in a 28% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 39k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 19%.
+
+Junior Software Engineer | Wilson Ltd (07/2019 — 05/2021)
+* Developed and maintained core features using PostgreSQL and GraphQL, resolving over 129 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Software Engineering (Class of 2019)
+Cumulative GPA: 3.83 / 4.00
+Member, Software Engineering Student Association
