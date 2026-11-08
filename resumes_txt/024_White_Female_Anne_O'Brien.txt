@@ -1,0 +1,19 @@
+ANNE O'BRIEN
+Email: anne.o'brien@example.com | Phone: (832) 631-8384 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: MongoDB, Git, Java, C++, Kubernetes, Python
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Smith-Romero (06/2019 — Present)
+* Architected and deployed microservices utilizing MongoDB and Git, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 38k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 29%.
+
+Junior Software Engineer | Baldwin-Baldwin (07/2017 — 05/2019)
+* Developed and maintained core features using C++ and Kubernetes, resolving over 104 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+MIT — B.A. Information Technology (Class of 2017)
+Cumulative GPA: 3.43 / 4.00

@@ -1,0 +1,19 @@
+MATTHEW DAVIS
+Email: matthew.davis@example.com | Phone: (741) 768-9094 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Node.js, TypeScript, Python, Docker, PostgreSQL, React
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Poole, Molina and Carr (06/2022 — Present)
+* Architected and deployed microservices utilizing Node.js and TypeScript, resulting in a 25% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 31k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 21%.
+
+Junior Software Engineer | Hayes, Morris and Walton (07/2020 — 05/2022)
+* Developed and maintained core features using Docker and PostgreSQL, resolving over 143 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+NYU — B.A. Information Technology (Class of 2020)
+Cumulative GPA: 3.26 / 4.00

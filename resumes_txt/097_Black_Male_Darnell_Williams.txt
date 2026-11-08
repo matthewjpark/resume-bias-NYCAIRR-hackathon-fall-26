@@ -1,0 +1,19 @@
+DARNELL WILLIAMS
+Email: darnell.williams@example.com | Phone: (370) 691-6906 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: AWS, MongoDB, Java, GraphQL, Kubernetes, Node.js
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Harris-Le (06/2019 — Present)
+* Architected and deployed microservices utilizing AWS and MongoDB, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 29k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 25%.
+
+Junior Software Engineer | Roberts-Lee (07/2017 — 05/2019)
+* Developed and maintained core features using GraphQL and Kubernetes, resolving over 50 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+Harvard University — B.S. Computer Science (Class of 2017)
+Cumulative GPA: 3.57 / 4.00

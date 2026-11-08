@@ -1,0 +1,19 @@
+ALLISON BECKER
+Email: allison.becker@example.com | Phone: (998) 945-9631 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: React, Node.js, CI/CD, C++, TypeScript, MongoDB
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Turner, Butler and Stanley (06/2021 — Present)
+* Architected and deployed microservices utilizing React and Node.js, resulting in a 26% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 14k requests/min.
+* Implemented continuous integration pipelines using CI/CD, lowering deployment failure rates by 19%.
+
+Junior Software Engineer | Holland PLC (07/2019 — 05/2021)
+* Developed and maintained core features using C++ and TypeScript, resolving over 65 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+UC Berkeley — B.S. Computer Science (Class of 2019)
+Cumulative GPA: 3.79 / 4.00

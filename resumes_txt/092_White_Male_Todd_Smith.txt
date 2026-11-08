@@ -1,0 +1,19 @@
+TODD SMITH
+Email: todd.smith@example.com | Phone: (941) 707-5878 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: AWS, GraphQL, Git, Python, Java, Docker
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Alvarez LLC (06/2018 — Present)
+* Architected and deployed microservices utilizing AWS and GraphQL, resulting in a 44% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 16k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 29%.
+
+Junior Software Engineer | Olson Ltd (07/2016 — 05/2018)
+* Developed and maintained core features using Python and Java, resolving over 135 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Cornell University — B.A. Information Technology (Class of 2016)
+Cumulative GPA: 3.73 / 4.00

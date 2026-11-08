@@ -1,0 +1,19 @@
+CANDIDATE RESUME (ANONYMIZED)
+Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: AWS, CI/CD, React, Kubernetes, Node.js, C++
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Dominguez, Fisher and Garcia (06/2017 — Present)
+* Architected and deployed microservices utilizing AWS and CI/CD, resulting in a 25% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 24k requests/min.
+* Implemented continuous integration pipelines using React, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Moses-Horton (07/2015 — 05/2017)
+* Developed and maintained core features using Kubernetes and Node.js, resolving over 50 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+Stanford University — B.S. Computer Science (Class of 2015)
+Cumulative GPA: 3.21 / 4.00

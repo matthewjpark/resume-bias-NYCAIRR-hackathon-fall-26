@@ -1,0 +1,19 @@
+EBONY ROBINSON
+Email: ebony.robinson@example.com | Phone: (585) 538-9200 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: C++, PostgreSQL, Java, MongoDB, Python, Node.js
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Leach-Walton (06/2018 — Present)
+* Architected and deployed microservices utilizing C++ and PostgreSQL, resulting in a 40% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 22k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 24%.
+
+Junior Software Engineer | Phillips, Payne and Jimenez (07/2016 — 05/2018)
+* Developed and maintained core features using MongoDB and Python, resolving over 81 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+Harvard University — B.A. Information Technology (Class of 2016)
+Cumulative GPA: 3.66 / 4.00

@@ -1,0 +1,19 @@
+EBONY ROBINSON
+Email: ebony.robinson@example.com | Phone: (342) 323-4434 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Python, React, Docker, C++, PostgreSQL, MongoDB
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Watkins, Schultz and Watkins (06/2018 — Present)
+* Architected and deployed microservices utilizing Python and React, resulting in a 31% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 34k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 25%.
+
+Junior Software Engineer | Aguilar-Pierce (07/2016 — 05/2018)
+* Developed and maintained core features using C++ and PostgreSQL, resolving over 63 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Cornell University — B.S. Mathematics (Class of 2016)
+Cumulative GPA: 3.43 / 4.00

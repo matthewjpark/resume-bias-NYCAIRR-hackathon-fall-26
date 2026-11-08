@@ -1,0 +1,19 @@
+TYRONE JACKSON
+Email: tyrone.jackson@example.com | Phone: (775) 411-7723 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Git, CI/CD, PostgreSQL, Docker, GraphQL, Node.js
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Mora, White and Smith (06/2017 — Present)
+* Architected and deployed microservices utilizing Git and CI/CD, resulting in a 42% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 22k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 27%.
+
+Junior Software Engineer | Ross, Munoz and Green (07/2015 — 05/2017)
+* Developed and maintained core features using Docker and GraphQL, resolving over 79 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+NYU — B.A. Information Technology (Class of 2015)
+Cumulative GPA: 3.84 / 4.00

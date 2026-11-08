@@ -1,0 +1,19 @@
+EMILY WALSH
+Email: emily.walsh@example.com | Phone: (584) 390-6637 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: C++, React, Docker, GraphQL, Python, MongoDB
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Marquez, Holt and Williams (06/2020 — Present)
+* Architected and deployed microservices utilizing C++ and React, resulting in a 36% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 42k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 19%.
+
+Junior Software Engineer | Brown-Taylor (07/2018 — 05/2020)
+* Developed and maintained core features using GraphQL and Python, resolving over 67 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Harvard University — B.A. Information Technology (Class of 2018)
+Cumulative GPA: 3.38 / 4.00

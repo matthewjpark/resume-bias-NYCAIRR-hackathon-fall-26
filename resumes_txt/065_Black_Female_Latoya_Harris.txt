@@ -1,0 +1,19 @@
+LATOYA HARRIS
+Email: latoya.harris@example.com | Phone: (384) 915-6856 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Node.js, Python, Git, C++, Java, GraphQL
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Rodriguez, Myers and Hunter (06/2021 — Present)
+* Architected and deployed microservices utilizing Node.js and Python, resulting in a 26% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 20k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 15%.
+
+Junior Software Engineer | Dixon-Peters (07/2019 — 05/2021)
+* Developed and maintained core features using C++ and Java, resolving over 73 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+NYU — B.S. Computer Science (Class of 2019)
+Cumulative GPA: 3.39 / 4.00

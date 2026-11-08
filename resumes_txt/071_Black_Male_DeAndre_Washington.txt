@@ -1,0 +1,19 @@
+DEANDRE WASHINGTON
+Email: deandre.washington@example.com | Phone: (619) 662-4706 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Java, Python, GraphQL, C++, CI/CD, Docker
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Meyer, Davis and White (06/2020 — Present)
+* Architected and deployed microservices utilizing Java and Python, resulting in a 43% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 11k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 15%.
+
+Junior Software Engineer | Malone Group (07/2018 — 05/2020)
+* Developed and maintained core features using C++ and CI/CD, resolving over 91 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+Columbia University — B.S. Mathematics (Class of 2018)
+Cumulative GPA: 3.4 / 4.00

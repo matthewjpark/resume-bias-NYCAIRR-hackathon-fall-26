@@ -1,0 +1,19 @@
+JILL MCCARTHY
+Email: jill.mccarthy@example.com | Phone: (809) 463-8072 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: CI/CD, PostgreSQL, Docker, Java, Node.js, AWS
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Davis and Sons (06/2019 — Present)
+* Architected and deployed microservices utilizing CI/CD and PostgreSQL, resulting in a 42% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 48k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 17%.
+
+Junior Software Engineer | Smith PLC (07/2017 — 05/2019)
+* Developed and maintained core features using Java and Node.js, resolving over 129 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+Cornell University — B.S. Software Engineering (Class of 2017)
+Cumulative GPA: 3.28 / 4.00

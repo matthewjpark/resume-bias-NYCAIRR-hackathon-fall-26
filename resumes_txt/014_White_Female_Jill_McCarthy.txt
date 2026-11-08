@@ -1,0 +1,19 @@
+JILL MCCARTHY
+Email: jill.mccarthy@example.com | Phone: (495) 861-3206 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: GraphQL, Docker, MongoDB, React, Node.js, Kubernetes
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Pollard-Welch (06/2020 — Present)
+* Architected and deployed microservices utilizing GraphQL and Docker, resulting in a 35% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 12k requests/min.
+* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 18%.
+
+Junior Software Engineer | Massey-Lewis (07/2018 — 05/2020)
+* Developed and maintained core features using React and Node.js, resolving over 71 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+Stanford University — B.S. Software Engineering (Class of 2018)
+Cumulative GPA: 3.36 / 4.00

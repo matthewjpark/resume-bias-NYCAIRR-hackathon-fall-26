@@ -1,0 +1,19 @@
+ANNE O'BRIEN
+Email: anne.o'brien@example.com | Phone: (901) 284-6829 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: AWS, MongoDB, Node.js, PostgreSQL, Java, C++
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Lee Inc (06/2020 — Present)
+* Architected and deployed microservices utilizing AWS and MongoDB, resulting in a 20% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 39k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 27%.
+
+Junior Software Engineer | Jones, Collins and Vasquez (07/2018 — 05/2020)
+* Developed and maintained core features using PostgreSQL and Java, resolving over 108 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Stanford University — B.S. Computer Science (Class of 2018)
+Cumulative GPA: 3.69 / 4.00

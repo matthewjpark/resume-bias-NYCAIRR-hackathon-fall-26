@@ -1,0 +1,19 @@
+CANDIDATE RESUME (ANONYMIZED)
+Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Python, TypeScript, Node.js, MongoDB, GraphQL, Docker
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Hammond, Taylor and Dominguez (06/2019 — Present)
+* Architected and deployed microservices utilizing Python and TypeScript, resulting in a 23% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 27k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 28%.
+
+Junior Software Engineer | Snyder, Mccoy and Hahn (07/2017 — 05/2019)
+* Developed and maintained core features using MongoDB and GraphQL, resolving over 99 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Carnegie Mellon University — B.S. Mathematics (Class of 2017)
+Cumulative GPA: 3.35 / 4.00

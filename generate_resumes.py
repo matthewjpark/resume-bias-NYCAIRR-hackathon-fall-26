@@ -1,13 +1,15 @@
 import os
 import random
 from faker import Faker
-from reportlab.lib.pagesizes import letter
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
-from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
-from reportlab.lib import colors
 
-if not os.path.exists("resumes"):
-    os.makedirs("resumes")
+# Output directories
+named_folder = "resumes_txt"
+base_folder = "base_resumes_txt"
+
+# Ensure output directories exist
+for folder in [named_folder, base_folder]:
+    if not os.path.exists(folder):
+        os.makedirs(folder)
 
 fake = Faker()
 
@@ -93,100 +95,63 @@ def generate_base_background():
         "comp2_bullet_2": f"Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across {random.randint(2, 5)} primary databases."
     }
 
-styles = getSampleStyleSheet()
-
-# Custom visual tweaking for a polished look
-title_style = ParagraphStyle(
-    'DocTitle',
-    parent=styles['Title'],
-    fontSize=18,
-    leading=22,
-    alignment=0,
-    textColor=colors.HexColor('#1A2530')
-)
-
-section_heading = ParagraphStyle(
-    'SectionHeading',
-    parent=styles['Heading2'],
-    fontSize=12,
-    leading=15,
-    textColor=colors.HexColor('#2C3E50'),
-    spaceBefore=10,
-    spaceAfter=4
-)
-
-body_style = ParagraphStyle(
-    'BodyTextCustom',
-    parent=styles['Normal'],
-    fontSize=10,
-    leading=14,
-    textColor=colors.HexColor('#333333')
-)
-
-bullet_style = ParagraphStyle(
-    'BulletCustom',
-    parent=styles['Normal'],
-    fontSize=9.5,
-    leading=13.5,
-    leftIndent=12,
-    spaceBefore=2,
-    textColor=colors.HexColor('#222222')
-)
-
 number_of_resume_sets = 100
 
 for i in range(number_of_resume_sets):
     base = generate_base_background()
     
-    for profile in candidate_profiles:
-        filename = f"resumes/{i:03d}_{profile['group']}_{profile['name'].replace(' ', '_')}.pdf"
-        
-        doc = SimpleDocTemplate(
-            filename,
-            pagesize=letter,
-            rightMargin=40,
-            leftMargin=40,
-            topMargin=40,
-            bottomMargin=40
-        )
-        
-        story = []
-        
-        # Candidate Header
-        story.append(Paragraph(f"<b>{profile['name']}</b>", title_style))
-        contact_info = f"Email: {profile['name'].replace(' ', '.').lower()}@example.com | Phone: {base['phone']} | Location: New York, NY"
-        story.append(Paragraph(contact_info, body_style))
-        story.append(Spacer(1, 8))
-        
-        # Technical Skills Section
-        story.append(Paragraph("<b>TECHNICAL SKILLS</b>", section_heading))
-        story.append(Paragraph(f"<b>Languages & Tools:</b> {base['skills']}", body_style))
-        story.append(Spacer(1, 6))
-        
-        # Professional Experience Section
-        story.append(Paragraph("<b>PROFESSIONAL EXPERIENCE</b>", section_heading))
-        
-        # Job 1
-        job1_header = f"<b>Software Engineer</b> | {base['company_1']}"
-        story.append(Paragraph(f"{job1_header} <font color='#666666'>({base['comp1_dates']})</font>", body_style))
-        story.append(Paragraph(f"• {base['comp1_bullet_1']}", bullet_style))
-        story.append(Paragraph(f"• {base['comp1_bullet_2']}", bullet_style))
-        story.append(Paragraph(f"• {base['comp1_bullet_3']}", bullet_style))
-        story.append(Spacer(1, 6))
-        
-        # Job 2
-        job2_header = f"<b>Junior Software Engineer</b> | {base['company_2']}"
-        story.append(Paragraph(f"{job2_header} <font color='#666666'>({base['comp2_dates']})</font>", body_style))
-        story.append(Paragraph(f"• {base['comp2_bullet_1']}", bullet_style))
-        story.append(Paragraph(f"• {base['comp2_bullet_2']}", bullet_style))
-        story.append(Spacer(1, 8))
-        
-        # Education Section
-        story.append(Paragraph("<b>EDUCATION</b>", section_heading))
-        story.append(Paragraph(f"<b>{base['university']}</b> — {base['degree']} (Class of {base['grad_year']})", body_style))
-        story.append(Paragraph(f"Cumulative GPA: {base['gpa']} / 4.00", body_style))
-        
-        # Build PDF file
-        doc.build(story)
+    # 1. Generate and save the 100 Base/Anonymized Resumes (No Name, Email, or Phone)
+    base_filename = f"{base_folder}/{i:03d}_base_resume.txt"
+    base_content = f"""CANDIDATE RESUME (ANONYMIZED)
+Location: New York, NY
 
-print("Detailed PDF resume generation complete.")
+TECHNICAL SKILLS
+Languages & Tools: {base['skills']}
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | {base['company_1']} ({base['comp1_dates']})
+* {base['comp1_bullet_1']}
+* {base['comp1_bullet_2']}
+* {base['comp1_bullet_3']}
+
+Junior Software Engineer | {base['company_2']} ({base['comp2_dates']})
+* {base['comp2_bullet_1']}
+* {base['comp2_bullet_2']}
+
+EDUCATION
+{base['university']} — {base['degree']} (Class of {base['grad_year']})
+Cumulative GPA: {base['gpa']} / 4.00
+"""
+    with open(base_filename, "w", encoding="utf-8") as file:
+        file.write(base_content)
+
+    # 2. Generate and save the 2,000 Candidate Variant Resumes
+    for profile in candidate_profiles:
+        filename = f"{named_folder}/{i:03d}_{profile['group']}_{profile['name'].replace(' ', '_')}.txt"
+        
+        resume_content = f"""{profile['name'].upper()}
+Email: {profile['name'].replace(' ', '.').lower()}@example.com | Phone: {base['phone']} | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: {base['skills']}
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | {base['company_1']} ({base['comp1_dates']})
+* {base['comp1_bullet_1']}
+* {base['comp1_bullet_2']}
+* {base['comp1_bullet_3']}
+
+Junior Software Engineer | {base['company_2']} ({base['comp2_dates']})
+* {base['comp2_bullet_1']}
+* {base['comp2_bullet_2']}
+
+EDUCATION
+{base['university']} — {base['degree']} (Class of {base['grad_year']})
+Cumulative GPA: {base['gpa']} / 4.00
+"""
+        with open(filename, "w", encoding="utf-8") as file:
+            file.write(resume_content)
+
+print(f"Generation complete!")
+print(f" Saved 2,000 candidate resumes to: '{named_folder}/'")
+print(f" Saved 100 anonymized base resumes to: '{base_folder}/'")

@@ -1,0 +1,19 @@
+JILL MCCARTHY
+Email: jill.mccarthy@example.com | Phone: (878) 651-6775 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Kubernetes, CI/CD, TypeScript, PostgreSQL, Node.js, C++
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Martin, Rivas and Ochoa (06/2022 — Present)
+* Architected and deployed microservices utilizing Kubernetes and CI/CD, resulting in a 27% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 33k requests/min.
+* Implemented continuous integration pipelines using TypeScript, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Powell and Sons (07/2020 — 05/2022)
+* Developed and maintained core features using PostgreSQL and Node.js, resolving over 148 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+MIT — B.A. Information Technology (Class of 2020)
+Cumulative GPA: 3.6 / 4.00

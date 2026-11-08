@@ -1,0 +1,19 @@
+KEISHA CLARK
+Email: keisha.clark@example.com | Phone: (575) 430-5914 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: GraphQL, C++, Node.js, MongoDB, AWS, TypeScript
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Martinez PLC (06/2022 — Present)
+* Architected and deployed microservices utilizing GraphQL and C++, resulting in a 21% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 17k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Bryan-Hunter (07/2020 — 05/2022)
+* Developed and maintained core features using MongoDB and AWS, resolving over 78 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+Stanford University — B.S. Software Engineering (Class of 2020)
+Cumulative GPA: 3.95 / 4.00

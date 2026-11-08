@@ -1,0 +1,19 @@
+ALLISON BECKER
+Email: allison.becker@example.com | Phone: (790) 402-2402 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: React, Git, C++, Java, Docker, CI/CD
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Campbell-Watkins (06/2020 — Present)
+* Architected and deployed microservices utilizing React and Git, resulting in a 43% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 18k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 24%.
+
+Junior Software Engineer | Castillo-King (07/2018 — 05/2020)
+* Developed and maintained core features using Java and Docker, resolving over 58 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+Stanford University — B.S. Computer Science (Class of 2018)
+Cumulative GPA: 3.5 / 4.00

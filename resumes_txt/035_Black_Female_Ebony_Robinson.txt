@@ -1,0 +1,19 @@
+EBONY ROBINSON
+Email: ebony.robinson@example.com | Phone: (686) 874-1256 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Git, MongoDB, GraphQL, Kubernetes, TypeScript, Java
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Khan-Green (06/2021 — Present)
+* Architected and deployed microservices utilizing Git and MongoDB, resulting in a 31% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 14k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 27%.
+
+Junior Software Engineer | Arellano, Harris and Cruz (07/2019 — 05/2021)
+* Developed and maintained core features using Kubernetes and TypeScript, resolving over 106 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+MIT — B.S. Computer Science (Class of 2019)
+Cumulative GPA: 3.86 / 4.00

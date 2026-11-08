@@ -1,0 +1,19 @@
+ALLISON BECKER
+Email: allison.becker@example.com | Phone: (386) 702-6222 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: C++, Node.js, GraphQL, CI/CD, PostgreSQL, TypeScript
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Wilcox, Delgado and Brown (06/2017 — Present)
+* Architected and deployed microservices utilizing C++ and Node.js, resulting in a 38% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 46k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 17%.
+
+Junior Software Engineer | Thomas-Mills (07/2015 — 05/2017)
+* Developed and maintained core features using CI/CD and PostgreSQL, resolving over 145 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+Cornell University — B.S. Software Engineering (Class of 2015)
+Cumulative GPA: 3.23 / 4.00

@@ -1,0 +1,19 @@
+EMILY WALSH
+Email: emily.walsh@example.com | Phone: (887) 877-6739 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: PostgreSQL, Java, Git, Docker, GraphQL, CI/CD
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Thomas Group (06/2020 — Present)
+* Architected and deployed microservices utilizing PostgreSQL and Java, resulting in a 26% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 28k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 23%.
+
+Junior Software Engineer | Porter-Reynolds (07/2018 — 05/2020)
+* Developed and maintained core features using Docker and GraphQL, resolving over 101 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Cornell University — B.A. Information Technology (Class of 2018)
+Cumulative GPA: 3.81 / 4.00

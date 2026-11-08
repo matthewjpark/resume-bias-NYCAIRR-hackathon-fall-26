@@ -1,0 +1,19 @@
+ANNE O'BRIEN
+Email: anne.o'brien@example.com | Phone: (825) 975-4693 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: CI/CD, GraphQL, Node.js, AWS, TypeScript, Git
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Brooks-Olson (06/2017 — Present)
+* Architected and deployed microservices utilizing CI/CD and GraphQL, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 42k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 29%.
+
+Junior Software Engineer | Villanueva, Weaver and Hunt (07/2015 — 05/2017)
+* Developed and maintained core features using AWS and TypeScript, resolving over 125 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION
+Cornell University — B.A. Information Technology (Class of 2015)
+Cumulative GPA: 3.57 / 4.00
