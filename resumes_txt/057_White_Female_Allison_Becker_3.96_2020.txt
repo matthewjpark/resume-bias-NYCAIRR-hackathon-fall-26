@@ -1,0 +1,19 @@
+ALLISON BECKER
+Email: allison.becker@example.com | Phone: (565) 738-5502 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: GraphQL, React, MongoDB, PostgreSQL, CI/CD, Python
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Brown Inc (06/2022 — Present)
+* Architected and deployed microservices utilizing GraphQL and React, resulting in a 33% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 11k requests/min.
+* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 23%.
+
+Junior Software Engineer | Thomas, Ayala and Rojas (07/2020 — 05/2022)
+* Developed and maintained core features using PostgreSQL and CI/CD, resolving over 108 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+NYU — B.S. Software Engineering (Class of 2020)
+Cumulative GPA: 3.96 / 4.00

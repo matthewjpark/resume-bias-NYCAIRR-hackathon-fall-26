@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: React, Git, C++, Java, Docker, CI/CD
+Languages & Tools: React, TypeScript, GraphQL, C++, Kubernetes, Java
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Campbell-Watkins (06/2020 — Present)
-* Architected and deployed microservices utilizing React and Git, resulting in a 43% reduction in latency.
-* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 18k requests/min.
-* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 24%.
+Software Engineer | Thomas-Johnson (06/2022 — Present)
+* Architected and deployed microservices utilizing React and TypeScript, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 13k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 17%.
 
-Junior Software Engineer | Castillo-King (07/2018 — 05/2020)
-* Developed and maintained core features using Java and Docker, resolving over 58 critical platform tickets.
-* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+Junior Software Engineer | Kim, Smith and May (07/2020 — 05/2022)
+* Developed and maintained core features using C++ and Kubernetes, resolving over 95 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
 
 EDUCATION
-Stanford University — B.S. Computer Science (Class of 2018)
-Cumulative GPA: 3.5 / 4.00
+Stanford University — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.53 / 4.00

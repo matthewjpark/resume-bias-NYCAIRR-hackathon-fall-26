@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: Python, Node.js, PostgreSQL, GraphQL, MongoDB, Git
+Languages & Tools: Kubernetes, PostgreSQL, Docker, C++, Python, Node.js
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Padilla Group (06/2018 — Present)
-* Architected and deployed microservices utilizing Python and Node.js, resulting in a 43% reduction in latency.
-* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 25k requests/min.
-* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 19%.
+Software Engineer | Johnson-Gonzalez (06/2019 — Present)
+* Architected and deployed microservices utilizing Kubernetes and PostgreSQL, resulting in a 40% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 19k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 20%.
 
-Junior Software Engineer | Hoffman, Hunt and Johnson (07/2016 — 05/2018)
-* Developed and maintained core features using GraphQL and MongoDB, resolving over 150 critical platform tickets.
-* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+Junior Software Engineer | Maxwell-Ball (07/2017 — 05/2019)
+* Developed and maintained core features using C++ and Python, resolving over 75 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
 
 EDUCATION
-MIT — B.S. Computer Science (Class of 2016)
-Cumulative GPA: 3.75 / 4.00
+Columbia University — B.S. Software Engineering (Class of 2017)
+Cumulative GPA: 3.51 / 4.00

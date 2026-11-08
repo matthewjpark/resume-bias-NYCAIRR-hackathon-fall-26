@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: PostgreSQL, MongoDB, GraphQL, Docker, React, Node.js
+Languages & Tools: PostgreSQL, TypeScript, C++, Node.js, Git, Java
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Brown-Mcgee (06/2022 — Present)
-* Architected and deployed microservices utilizing PostgreSQL and MongoDB, resulting in a 23% reduction in latency.
-* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 43k requests/min.
-* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 28%.
+Software Engineer | Moore Inc (06/2022 — Present)
+* Architected and deployed microservices utilizing PostgreSQL and TypeScript, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 32k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 22%.
 
-Junior Software Engineer | Walters, Horton and Allen (07/2020 — 05/2022)
-* Developed and maintained core features using Docker and React, resolving over 136 critical platform tickets.
-* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+Junior Software Engineer | Murphy, Briggs and Baker (07/2020 — 05/2022)
+* Developed and maintained core features using Node.js and Git, resolving over 108 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
 
 EDUCATION
-NYU — B.S. Computer Science (Class of 2020)
-Cumulative GPA: 3.49 / 4.00
+UC Berkeley — B.S. Software Engineering (Class of 2020)
+Cumulative GPA: 3.3 / 4.00

@@ -1,0 +1,19 @@
+ALLISON BECKER
+Email: allison.becker@example.com | Phone: (673) 900-6073 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: CI/CD, TypeScript, MongoDB, Docker, Node.js, C++
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Peterson, Wilson and Roberts (06/2022 — Present)
+* Architected and deployed microservices utilizing CI/CD and TypeScript, resulting in a 27% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 15k requests/min.
+* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 23%.
+
+Junior Software Engineer | Hammond Group (07/2020 — 05/2022)
+* Developed and maintained core features using Docker and Node.js, resolving over 66 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+Stanford University — B.S. Software Engineering (Class of 2020)
+Cumulative GPA: 3.67 / 4.00

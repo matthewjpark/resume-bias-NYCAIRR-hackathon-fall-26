@@ -1,0 +1,19 @@
+MATTHEW DAVIS
+Email: matthew.davis@example.com | Phone: (265) 964-9027 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: C++, CI/CD, Git, Docker, Kubernetes, Node.js
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Roach Inc (06/2022 — Present)
+* Architected and deployed microservices utilizing C++ and CI/CD, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 50k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 15%.
+
+Junior Software Engineer | Ward-Buchanan (07/2020 — 05/2022)
+* Developed and maintained core features using Docker and Kubernetes, resolving over 78 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+NYU — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.93 / 4.00

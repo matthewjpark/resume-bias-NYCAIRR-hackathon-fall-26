@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: PostgreSQL, Java, Kubernetes, React, Docker, Node.js
+Languages & Tools: GraphQL, Node.js, PostgreSQL, AWS, CI/CD, React
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Wood, Martin and Mills (06/2017 — Present)
-* Architected and deployed microservices utilizing PostgreSQL and Java, resulting in a 27% reduction in latency.
-* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 29k requests/min.
-* Implemented continuous integration pipelines using Kubernetes, lowering deployment failure rates by 24%.
+Software Engineer | Huff, Holt and Williams (06/2019 — Present)
+* Architected and deployed microservices utilizing GraphQL and Node.js, resulting in a 20% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 23k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 23%.
 
-Junior Software Engineer | Leblanc, Molina and Moore (07/2015 — 05/2017)
-* Developed and maintained core features using React and Docker, resolving over 76 critical platform tickets.
+Junior Software Engineer | Smith-Conner (07/2017 — 05/2019)
+* Developed and maintained core features using AWS and CI/CD, resolving over 56 critical platform tickets.
 * Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
 
 EDUCATION
-Carnegie Mellon University — B.S. Computer Science (Class of 2015)
-Cumulative GPA: 3.28 / 4.00
+Cornell University — B.S. Computer Science (Class of 2017)
+Cumulative GPA: 3.29 / 4.00

@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: React, CI/CD, Kubernetes, C++, PostgreSQL, TypeScript
+Languages & Tools: Kubernetes, MongoDB, Python, Node.js, C++, Java
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Miller-Flores (06/2021 — Present)
-* Architected and deployed microservices utilizing React and CI/CD, resulting in a 37% reduction in latency.
-* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 23k requests/min.
-* Implemented continuous integration pipelines using Kubernetes, lowering deployment failure rates by 15%.
+Software Engineer | Delacruz LLC (06/2018 — Present)
+* Architected and deployed microservices utilizing Kubernetes and MongoDB, resulting in a 23% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 29k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 17%.
 
-Junior Software Engineer | Johnson, Myers and Church (07/2019 — 05/2021)
-* Developed and maintained core features using C++ and PostgreSQL, resolving over 54 critical platform tickets.
+Junior Software Engineer | Escobar PLC (07/2016 — 05/2018)
+* Developed and maintained core features using Node.js and C++, resolving over 111 critical platform tickets.
 * Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
 
 EDUCATION
-NYU — B.S. Software Engineering (Class of 2019)
-Cumulative GPA: 3.3 / 4.00
+NYU — B.S. Mathematics (Class of 2016)
+Cumulative GPA: 3.93 / 4.00

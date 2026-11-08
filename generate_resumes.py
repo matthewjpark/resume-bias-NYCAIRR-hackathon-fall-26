@@ -101,7 +101,7 @@ for i in range(number_of_resume_sets):
     base = generate_base_background()
     
     # 1. Generate and save the 100 Base/Anonymized Resumes (No Name, Email, or Phone)
-    base_filename = f"{base_folder}/{i:03d}_base_resume.txt"
+    base_filename = f"{base_folder}/{i:03d}_base_resume_{base['gpa']}_{base['grad_year']}.txt"
     base_content = f"""CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 

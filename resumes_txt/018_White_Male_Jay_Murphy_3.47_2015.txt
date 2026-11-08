@@ -1,0 +1,19 @@
+JAY MURPHY
+Email: jay.murphy@example.com | Phone: (449) 682-3918 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: CI/CD, Python, Java, MongoDB, Kubernetes, AWS
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Fischer, Smith and Goodman (06/2017 — Present)
+* Architected and deployed microservices utilizing CI/CD and Python, resulting in a 29% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 24k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 18%.
+
+Junior Software Engineer | Williams-Owens (07/2015 — 05/2017)
+* Developed and maintained core features using MongoDB and Kubernetes, resolving over 57 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION
+MIT — B.S. Software Engineering (Class of 2015)
+Cumulative GPA: 3.47 / 4.00

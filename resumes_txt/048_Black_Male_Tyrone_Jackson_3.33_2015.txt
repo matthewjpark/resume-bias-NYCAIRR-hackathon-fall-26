@@ -1,0 +1,19 @@
+TYRONE JACKSON
+Email: tyrone.jackson@example.com | Phone: (442) 470-1332 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: GraphQL, CI/CD, React, Python, Java, AWS
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Roberts, Howard and Jennings (06/2017 — Present)
+* Architected and deployed microservices utilizing GraphQL and CI/CD, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 15k requests/min.
+* Implemented continuous integration pipelines using React, lowering deployment failure rates by 16%.
+
+Junior Software Engineer | Davis-Smith (07/2015 — 05/2017)
+* Developed and maintained core features using Python and Java, resolving over 51 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Columbia University — B.S. Software Engineering (Class of 2015)
+Cumulative GPA: 3.33 / 4.00

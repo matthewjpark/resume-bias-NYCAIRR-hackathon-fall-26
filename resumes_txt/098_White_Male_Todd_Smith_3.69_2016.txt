@@ -1,0 +1,19 @@
+TODD SMITH
+Email: todd.smith@example.com | Phone: (785) 715-6684 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Kubernetes, GraphQL, Node.js, PostgreSQL, CI/CD, Git
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Rios-Barnes (06/2018 — Present)
+* Architected and deployed microservices utilizing Kubernetes and GraphQL, resulting in a 32% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 30k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 21%.
+
+Junior Software Engineer | Hopkins, Wallace and Luna (07/2016 — 05/2018)
+* Developed and maintained core features using PostgreSQL and CI/CD, resolving over 144 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+MIT — B.A. Information Technology (Class of 2016)
+Cumulative GPA: 3.69 / 4.00

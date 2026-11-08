@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: GraphQL, Python, Docker, TypeScript, Git, C++
+Languages & Tools: AWS, Node.js, GraphQL, TypeScript, Python, React
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Sanders, Young and Brown (06/2017 — Present)
-* Architected and deployed microservices utilizing GraphQL and Python, resulting in a 32% reduction in latency.
-* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 45k requests/min.
-* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 15%.
+Software Engineer | Lucas Group (06/2021 — Present)
+* Architected and deployed microservices utilizing AWS and Node.js, resulting in a 23% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 16k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 30%.
 
-Junior Software Engineer | King-Underwood (07/2015 — 05/2017)
-* Developed and maintained core features using TypeScript and Git, resolving over 85 critical platform tickets.
-* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+Junior Software Engineer | Garrison, Lee and Dyer (07/2019 — 05/2021)
+* Developed and maintained core features using TypeScript and Python, resolving over 90 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
 
 EDUCATION
-Columbia University — B.A. Information Technology (Class of 2015)
-Cumulative GPA: 3.49 / 4.00
+Columbia University — B.A. Information Technology (Class of 2019)
+Cumulative GPA: 3.75 / 4.00

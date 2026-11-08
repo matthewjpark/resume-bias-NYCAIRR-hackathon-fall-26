@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: C++, Java, Docker, GraphQL, Kubernetes, TypeScript
+Languages & Tools: C++, CI/CD, Git, Docker, Kubernetes, Node.js
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Frey, Montgomery and Fuller (06/2017 — Present)
-* Architected and deployed microservices utilizing C++ and Java, resulting in a 41% reduction in latency.
-* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 47k requests/min.
-* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 16%.
+Software Engineer | Roach Inc (06/2022 — Present)
+* Architected and deployed microservices utilizing C++ and CI/CD, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 50k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 15%.
 
-Junior Software Engineer | Payne, Lester and James (07/2015 — 05/2017)
-* Developed and maintained core features using GraphQL and Kubernetes, resolving over 106 critical platform tickets.
-* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+Junior Software Engineer | Ward-Buchanan (07/2020 — 05/2022)
+* Developed and maintained core features using Docker and Kubernetes, resolving over 78 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
 
 EDUCATION
-Carnegie Mellon University — B.S. Computer Science (Class of 2015)
-Cumulative GPA: 3.83 / 4.00
+NYU — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.93 / 4.00

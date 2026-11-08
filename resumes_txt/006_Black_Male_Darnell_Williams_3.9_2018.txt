@@ -1,0 +1,19 @@
+DARNELL WILLIAMS
+Email: darnell.williams@example.com | Phone: (904) 347-8524 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Node.js, Kubernetes, Java, Docker, MongoDB, GraphQL
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Lopez-Wright (06/2020 — Present)
+* Architected and deployed microservices utilizing Node.js and Kubernetes, resulting in a 32% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 29k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 30%.
+
+Junior Software Engineer | Sanchez, Lowe and Price (07/2018 — 05/2020)
+* Developed and maintained core features using Docker and MongoDB, resolving over 113 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION
+Harvard University — B.S. Mathematics (Class of 2018)
+Cumulative GPA: 3.9 / 4.00

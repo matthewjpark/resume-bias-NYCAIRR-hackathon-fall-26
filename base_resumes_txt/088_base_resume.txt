@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: AWS, Java, MongoDB, GraphQL, Kubernetes, Node.js
+Languages & Tools: Git, Java, Python, GraphQL, Kubernetes, Node.js
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Harris, Lyons and Mcdowell (06/2017 — Present)
-* Architected and deployed microservices utilizing AWS and Java, resulting in a 23% reduction in latency.
-* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 35k requests/min.
-* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 26%.
+Software Engineer | Gomez Ltd (06/2017 — Present)
+* Architected and deployed microservices utilizing Git and Java, resulting in a 29% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 13k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 17%.
 
-Junior Software Engineer | Nelson Ltd (07/2015 — 05/2017)
-* Developed and maintained core features using GraphQL and Kubernetes, resolving over 127 critical platform tickets.
-* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+Junior Software Engineer | Schwartz, Contreras and Jackson (07/2015 — 05/2017)
+* Developed and maintained core features using GraphQL and Kubernetes, resolving over 120 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
 
 EDUCATION
-NYU — B.S. Mathematics (Class of 2015)
-Cumulative GPA: 3.97 / 4.00
+Carnegie Mellon University — B.A. Information Technology (Class of 2015)
+Cumulative GPA: 3.54 / 4.00

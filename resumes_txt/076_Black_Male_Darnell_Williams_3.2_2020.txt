@@ -1,0 +1,19 @@
+DARNELL WILLIAMS
+Email: darnell.williams@example.com | Phone: (567) 826-3596 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: GraphQL, Kubernetes, Git, CI/CD, Docker, Python
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Reeves-Gonzalez (06/2022 — Present)
+* Architected and deployed microservices utilizing GraphQL and Kubernetes, resulting in a 24% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 18k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 23%.
+
+Junior Software Engineer | Bryan PLC (07/2020 — 05/2022)
+* Developed and maintained core features using CI/CD and Docker, resolving over 68 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+UC Berkeley — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.2 / 4.00

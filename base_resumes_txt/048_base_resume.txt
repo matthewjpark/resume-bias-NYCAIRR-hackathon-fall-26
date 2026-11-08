@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: TypeScript, Kubernetes, React, Python, AWS, C++
+Languages & Tools: GraphQL, CI/CD, React, Python, Java, AWS
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Cox, Sandoval and Jones (06/2017 — Present)
-* Architected and deployed microservices utilizing TypeScript and Kubernetes, resulting in a 23% reduction in latency.
-* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 19k requests/min.
-* Implemented continuous integration pipelines using React, lowering deployment failure rates by 22%.
+Software Engineer | Roberts, Howard and Jennings (06/2017 — Present)
+* Architected and deployed microservices utilizing GraphQL and CI/CD, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 15k requests/min.
+* Implemented continuous integration pipelines using React, lowering deployment failure rates by 16%.
 
-Junior Software Engineer | Mckee Inc (07/2015 — 05/2017)
-* Developed and maintained core features using Python and AWS, resolving over 70 critical platform tickets.
+Junior Software Engineer | Davis-Smith (07/2015 — 05/2017)
+* Developed and maintained core features using Python and Java, resolving over 51 critical platform tickets.
 * Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
 
 EDUCATION
-Carnegie Mellon University — B.S. Computer Science (Class of 2015)
-Cumulative GPA: 3.69 / 4.00
+Columbia University — B.S. Software Engineering (Class of 2015)
+Cumulative GPA: 3.33 / 4.00

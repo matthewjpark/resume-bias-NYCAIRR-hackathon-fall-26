@@ -1,0 +1,19 @@
+TREMAYNE BROWN
+Email: tremayne.brown@example.com | Phone: (917) 763-4999 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: GraphQL, C++, Docker, React, Git, TypeScript
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Livingston, Mathews and Alexander (06/2021 — Present)
+* Architected and deployed microservices utilizing GraphQL and C++, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 10k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 15%.
+
+Junior Software Engineer | Barrett-Arnold (07/2019 — 05/2021)
+* Developed and maintained core features using React and Git, resolving over 116 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+MIT — B.S. Mathematics (Class of 2019)
+Cumulative GPA: 3.46 / 4.00

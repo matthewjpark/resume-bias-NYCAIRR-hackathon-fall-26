@@ -1,0 +1,19 @@
+DEANDRE WASHINGTON
+Email: deandre.washington@example.com | Phone: (338) 766-8726 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: C++, Python, AWS, TypeScript, GraphQL, React
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Lee, Williams and Buck (06/2019 — Present)
+* Architected and deployed microservices utilizing C++ and Python, resulting in a 42% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 12k requests/min.
+* Implemented continuous integration pipelines using AWS, lowering deployment failure rates by 20%.
+
+Junior Software Engineer | Kaufman, Mcdaniel and Cross (07/2017 — 05/2019)
+* Developed and maintained core features using TypeScript and GraphQL, resolving over 75 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION
+UC Berkeley — B.A. Information Technology (Class of 2017)
+Cumulative GPA: 3.82 / 4.00

@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: Docker, Kubernetes, CI/CD, Python, Node.js, C++
+Languages & Tools: MongoDB, Python, Git, GraphQL, Kubernetes, C++
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Adkins Inc (06/2022 — Present)
-* Architected and deployed microservices utilizing Docker and Kubernetes, resulting in a 23% reduction in latency.
-* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 35k requests/min.
-* Implemented continuous integration pipelines using CI/CD, lowering deployment failure rates by 23%.
+Software Engineer | Fischer-Freeman (06/2022 — Present)
+* Architected and deployed microservices utilizing MongoDB and Python, resulting in a 27% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 11k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 30%.
 
-Junior Software Engineer | Graves, Williams and Harris (07/2020 — 05/2022)
-* Developed and maintained core features using Python and Node.js, resolving over 102 critical platform tickets.
-* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+Junior Software Engineer | Norris-Roberts (07/2020 — 05/2022)
+* Developed and maintained core features using GraphQL and Kubernetes, resolving over 82 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
 
 EDUCATION
-Carnegie Mellon University — B.S. Software Engineering (Class of 2020)
-Cumulative GPA: 3.83 / 4.00
+Stanford University — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.94 / 4.00

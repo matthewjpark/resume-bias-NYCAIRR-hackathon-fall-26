@@ -1,0 +1,19 @@
+JILL MCCARTHY
+Email: jill.mccarthy@example.com | Phone: (792) 962-7478 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Docker, Java, Kubernetes, Git, TypeScript, GraphQL
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Graves PLC (06/2022 — Present)
+* Architected and deployed microservices utilizing Docker and Java, resulting in a 41% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 15k requests/min.
+* Implemented continuous integration pipelines using Kubernetes, lowering deployment failure rates by 22%.
+
+Junior Software Engineer | Reed, Lewis and Dawson (07/2020 — 05/2022)
+* Developed and maintained core features using Git and TypeScript, resolving over 97 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION
+MIT — B.S. Software Engineering (Class of 2020)
+Cumulative GPA: 3.34 / 4.00

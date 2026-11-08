@@ -2,18 +2,18 @@ CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 
 TECHNICAL SKILLS
-Languages & Tools: Node.js, PostgreSQL, TypeScript, Docker, C++, Python
+Languages & Tools: Node.js, Kubernetes, Java, Docker, MongoDB, GraphQL
 
 PROFESSIONAL EXPERIENCE
-Software Engineer | Farley-Gregory (06/2019 — Present)
-* Architected and deployed microservices utilizing Node.js and PostgreSQL, resulting in a 21% reduction in latency.
-* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 45k requests/min.
-* Implemented continuous integration pipelines using TypeScript, lowering deployment failure rates by 20%.
+Software Engineer | Lopez-Wright (06/2020 — Present)
+* Architected and deployed microservices utilizing Node.js and Kubernetes, resulting in a 32% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 29k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 30%.
 
-Junior Software Engineer | Walker LLC (07/2017 — 05/2019)
-* Developed and maintained core features using Docker and C++, resolving over 131 critical platform tickets.
-* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+Junior Software Engineer | Sanchez, Lowe and Price (07/2018 — 05/2020)
+* Developed and maintained core features using Docker and MongoDB, resolving over 113 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
 
 EDUCATION
-Carnegie Mellon University — B.A. Information Technology (Class of 2017)
-Cumulative GPA: 3.26 / 4.00
+Harvard University — B.S. Mathematics (Class of 2018)
+Cumulative GPA: 3.9 / 4.00

@@ -1,0 +1,19 @@
+KEISHA CLARK
+Email: keisha.clark@example.com | Phone: (452) 615-4309 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Git, React, CI/CD, Node.js, MongoDB, Python
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Boyd, White and Harper (06/2022 — Present)
+* Architected and deployed microservices utilizing Git and React, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 26k requests/min.
+* Implemented continuous integration pipelines using CI/CD, lowering deployment failure rates by 28%.
+
+Junior Software Engineer | Mitchell LLC (07/2020 — 05/2022)
+* Developed and maintained core features using Node.js and MongoDB, resolving over 65 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+NYU — B.S. Mathematics (Class of 2020)
+Cumulative GPA: 3.52 / 4.00
