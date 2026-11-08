@@ -133,7 +133,7 @@ for i in range(number_of_resume_sets):
     base = generate_base_background()
     
     # 1. Base Control Resume (No Zip Code, Neutral Club, Random Extra Language)
-    base_filename = f"{base_folder}/{i:03d}_base_GPA_{base['gpa']}_Grad_{base['grad_year']}.txt"
+    base_filename = f"{base_folder}/{i:03d}_{base['gpa']}_{base['grad_year']}.txt"
     base_content = f"""CANDIDATE RESUME (ANONYMIZED)
 Location: New York, NY
 

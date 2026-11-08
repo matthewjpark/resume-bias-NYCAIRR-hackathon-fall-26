@@ -1,0 +1,21 @@
+SARAH MILLER
+Email: sarah.miller@example.com | Phone: (554) 504-4002 | Location: New York, NY 10021
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Python, Node.js, MongoDB, Docker, AWS, CI/CD
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Leon LLC (06/2019 — Present)
+* Architected and deployed microservices utilizing Python and Node.js, resulting in a 31% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 21k requests/min.
+* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 27%.
+
+Junior Software Engineer | Jackson, Williams and Jimenez (07/2017 — 05/2019)
+* Developed and maintained core features using Docker and AWS, resolving over 123 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+UC Berkeley — B.A. Information Technology (Class of 2017)
+Cumulative GPA: 3.76 / 4.00
+Member, Software Engineering Student Association

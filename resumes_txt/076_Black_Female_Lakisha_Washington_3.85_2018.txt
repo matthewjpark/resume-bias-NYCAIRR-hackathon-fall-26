@@ -1,0 +1,21 @@
+LAKISHA WASHINGTON
+Email: lakisha.washington@example.com | Phone: (285) 837-9417 | Location: Brooklyn, NY 11212
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Python, Docker, React, CI/CD, C++, TypeScript
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Middleton-Ferguson (06/2020 — Present)
+* Architected and deployed microservices utilizing Python and Docker, resulting in a 27% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 32k requests/min.
+* Implemented continuous integration pipelines using React, lowering deployment failure rates by 23%.
+
+Junior Software Engineer | Scott-Johnson (07/2018 — 05/2020)
+* Developed and maintained core features using CI/CD and C++, resolving over 57 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Mathematics (Class of 2018)
+Cumulative GPA: 3.85 / 4.00
+Member, National Society of Black Engineers (NSBE)

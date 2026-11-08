@@ -1,0 +1,21 @@
+CARLOS MARTINEZ
+Email: carlos.martinez@example.com | Phone: (369) 839-8308 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: C++, Docker, Python, CI/CD, Git, React
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Ramirez Inc (06/2020 — Present)
+* Architected and deployed microservices utilizing C++ and Docker, resulting in a 44% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 40k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 23%.
+
+Junior Software Engineer | Murphy-Thompson (07/2018 — 05/2020)
+* Developed and maintained core features using CI/CD and Git, resolving over 122 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+NYU — B.A. Information Technology (Class of 2018)
+Cumulative GPA: 3.38 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

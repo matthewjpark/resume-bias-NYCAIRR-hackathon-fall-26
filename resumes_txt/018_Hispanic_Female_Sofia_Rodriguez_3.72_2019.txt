@@ -1,0 +1,21 @@
+SOFIA RODRIGUEZ
+Email: sofia.rodriguez@example.com | Phone: (228) 489-3569 | Location: Bronx, NY 10454
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Kubernetes, Node.js, GraphQL, AWS, MongoDB, Python
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Jones, Mitchell and Herrera (06/2021 — Present)
+* Architected and deployed microservices utilizing Kubernetes and Node.js, resulting in a 35% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 24k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Robertson PLC (07/2019 — 05/2021)
+* Developed and maintained core features using AWS and MongoDB, resolving over 123 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+UC Berkeley — B.S. Software Engineering (Class of 2019)
+Cumulative GPA: 3.72 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

@@ -1,0 +1,21 @@
+MEI-LING CHEN
+Email: mei-ling.chen@example.com | Phone: (926) 766-8580 | Location: Brooklyn, NY 11220
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: CI/CD, C++, MongoDB, Python, Node.js, Kubernetes
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Vaughn-Barker (06/2022 — Present)
+* Architected and deployed microservices utilizing CI/CD and C++, resulting in a 33% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 50k requests/min.
+* Implemented continuous integration pipelines using MongoDB, lowering deployment failure rates by 24%.
+
+Junior Software Engineer | Garcia, Davidson and Duffy (07/2020 — 05/2022)
+* Developed and maintained core features using Python and Node.js, resolving over 73 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+NYU — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.93 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

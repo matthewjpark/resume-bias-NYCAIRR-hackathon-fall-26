@@ -1,0 +1,21 @@
+DEANDRE WASHINGTON
+Email: deandre.washington@example.com | Phone: (229) 972-7156 | Location: Brooklyn, NY 11207
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Git, Java, AWS, Docker, Kubernetes, CI/CD
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Grant-Martin (06/2017 — Present)
+* Architected and deployed microservices utilizing Git and Java, resulting in a 37% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 41k requests/min.
+* Implemented continuous integration pipelines using AWS, lowering deployment failure rates by 30%.
+
+Junior Software Engineer | Chang-Cox (07/2015 — 05/2017)
+* Developed and maintained core features using Docker and Kubernetes, resolving over 126 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.A. Information Technology (Class of 2015)
+Cumulative GPA: 3.87 / 4.00
+Member, National Society of Black Engineers (NSBE)

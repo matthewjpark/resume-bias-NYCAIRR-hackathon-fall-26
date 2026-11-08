@@ -1,0 +1,21 @@
+CANDIDATE RESUME (ANONYMIZED)
+Location: New York, NY
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: TypeScript, Java, Node.js, C++, React, GraphQL
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Mcguire, Willis and Vaughn (06/2017 — Present)
+* Architected and deployed microservices utilizing TypeScript and Java, resulting in a 28% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 25k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 28%.
+
+Junior Software Engineer | Hall, Graham and Murray (07/2015 — 05/2017)
+* Developed and maintained core features using C++ and React, resolving over 106 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Computer Science (Class of 2015)
+Cumulative GPA: 3.61 / 4.00
+Member, Software Engineering Student Association

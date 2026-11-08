@@ -1,0 +1,21 @@
+KEVIN ZHANG
+Email: kevin.zhang@example.com | Phone: (542) 764-3245 | Location: Flushing, NY 11355
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Python, MongoDB, Git, Docker, Kubernetes, C++
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Reed and Sons (06/2017 — Present)
+* Architected and deployed microservices utilizing Python and MongoDB, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 35k requests/min.
+* Implemented continuous integration pipelines using Git, lowering deployment failure rates by 16%.
+
+Junior Software Engineer | Green-Collins (07/2015 — 05/2017)
+* Developed and maintained core features using Docker and Kubernetes, resolving over 129 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+UC Berkeley — B.S. Mathematics (Class of 2015)
+Cumulative GPA: 3.43 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

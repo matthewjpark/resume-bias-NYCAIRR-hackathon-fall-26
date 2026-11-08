@@ -1,0 +1,21 @@
+SOFIA RODRIGUEZ
+Email: sofia.rodriguez@example.com | Phone: (820) 623-7172 | Location: Bronx, NY 10454
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: React, AWS, GraphQL, PostgreSQL, MongoDB, C++
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Hill, Anderson and Schmidt (06/2022 — Present)
+* Architected and deployed microservices utilizing React and AWS, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 10k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 22%.
+
+Junior Software Engineer | Walker LLC (07/2020 — 05/2022)
+* Developed and maintained core features using PostgreSQL and MongoDB, resolving over 120 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+UC Berkeley — B.S. Mathematics (Class of 2020)
+Cumulative GPA: 3.43 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

@@ -1,0 +1,21 @@
+TODD SMITH
+Email: todd.smith@example.com | Phone: (229) 630-2398 | Location: New York, NY 10013
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, AWS, GraphQL, TypeScript, Java, Node.js
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Mendez, Joseph and Cruz (06/2019 — Present)
+* Architected and deployed microservices utilizing MongoDB and AWS, resulting in a 22% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 19k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 21%.
+
+Junior Software Engineer | Henson LLC (07/2017 — 05/2019)
+* Developed and maintained core features using TypeScript and Java, resolving over 73 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Cornell University — B.S. Software Engineering (Class of 2017)
+Cumulative GPA: 3.33 / 4.00
+Member, Software Engineering Student Association

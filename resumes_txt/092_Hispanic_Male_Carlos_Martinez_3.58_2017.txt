@@ -1,0 +1,21 @@
+CARLOS MARTINEZ
+Email: carlos.martinez@example.com | Phone: (283) 275-1268 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Java, GraphQL, Docker, MongoDB, Python, Kubernetes
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Garcia, Hall and Thornton (06/2019 — Present)
+* Architected and deployed microservices utilizing Java and GraphQL, resulting in a 41% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 43k requests/min.
+* Implemented continuous integration pipelines using Docker, lowering deployment failure rates by 18%.
+
+Junior Software Engineer | Hood PLC (07/2017 — 05/2019)
+* Developed and maintained core features using MongoDB and Python, resolving over 77 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Software Engineering (Class of 2017)
+Cumulative GPA: 3.58 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

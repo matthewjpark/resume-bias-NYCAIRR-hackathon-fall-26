@@ -1,0 +1,21 @@
+DEANDRE WASHINGTON
+Email: deandre.washington@example.com | Phone: (574) 380-1183 | Location: Brooklyn, NY 11207
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: React, MongoDB, Python, TypeScript, Docker, AWS
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Carroll PLC (06/2020 — Present)
+* Architected and deployed microservices utilizing React and MongoDB, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 21k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 17%.
+
+Junior Software Engineer | Tucker Ltd (07/2018 — 05/2020)
+* Developed and maintained core features using TypeScript and Docker, resolving over 115 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+UC Berkeley — B.S. Software Engineering (Class of 2018)
+Cumulative GPA: 3.63 / 4.00
+Member, National Society of Black Engineers (NSBE)

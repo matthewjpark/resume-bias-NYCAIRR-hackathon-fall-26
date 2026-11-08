@@ -1,0 +1,21 @@
+MATEO HERNANDEZ
+Email: mateo.hernandez@example.com | Phone: (534) 207-7485 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Java, Docker, CI/CD, Kubernetes, AWS, Node.js
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Clarke-Hunter (06/2018 — Present)
+* Architected and deployed microservices utilizing Java and Docker, resulting in a 21% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 43k requests/min.
+* Implemented continuous integration pipelines using CI/CD, lowering deployment failure rates by 25%.
+
+Junior Software Engineer | Henry-Collins (07/2016 — 05/2018)
+* Developed and maintained core features using Kubernetes and AWS, resolving over 77 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Computer Science (Class of 2016)
+Cumulative GPA: 3.81 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

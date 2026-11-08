@@ -1,0 +1,21 @@
+LATOYA HARRIS
+Email: latoya.harris@example.com | Phone: (548) 236-7136 | Location: Brooklyn, NY 11212
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Java, AWS, Python, React, Git, CI/CD
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Johnson-Thompson (06/2017 — Present)
+* Architected and deployed microservices utilizing Java and AWS, resulting in a 40% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 33k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 15%.
+
+Junior Software Engineer | Bauer-Johnson (07/2015 — 05/2017)
+* Developed and maintained core features using React and Git, resolving over 72 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Columbia University — B.S. Computer Science (Class of 2015)
+Cumulative GPA: 3.97 / 4.00
+Member, National Society of Black Engineers (NSBE)

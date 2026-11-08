@@ -1,0 +1,21 @@
+EMILY WALSH
+Email: emily.walsh@example.com | Phone: (934) 482-7125 | Location: New York, NY 10021
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: AWS, C++, Kubernetes, Docker, Node.js, GraphQL
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Crawford-Velasquez (06/2019 — Present)
+* Architected and deployed microservices utilizing AWS and C++, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 42k requests/min.
+* Implemented continuous integration pipelines using Kubernetes, lowering deployment failure rates by 22%.
+
+Junior Software Engineer | Watts-Jensen (07/2017 — 05/2019)
+* Developed and maintained core features using Docker and Node.js, resolving over 140 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+NYU — B.A. Information Technology (Class of 2017)
+Cumulative GPA: 3.8 / 4.00
+Member, Software Engineering Student Association

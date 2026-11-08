@@ -1,0 +1,21 @@
+SARAH MILLER
+Email: sarah.miller@example.com | Phone: (842) 995-8323 | Location: New York, NY 10021
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, Python, Node.js, AWS, React, Java
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Mckinney PLC (06/2017 — Present)
+* Architected and deployed microservices utilizing MongoDB and Python, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 22k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 16%.
+
+Junior Software Engineer | Ferguson-Jones (07/2015 — 05/2017)
+* Developed and maintained core features using AWS and React, resolving over 77 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+NYU — B.S. Mathematics (Class of 2015)
+Cumulative GPA: 3.82 / 4.00
+Member, Software Engineering Student Association

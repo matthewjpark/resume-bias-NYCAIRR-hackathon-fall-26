@@ -1,0 +1,21 @@
+EMILY WALSH
+Email: emily.walsh@example.com | Phone: (748) 941-2010 | Location: New York, NY 10021
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Python, C++, PostgreSQL, React, CI/CD, TypeScript
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Smith-Vargas (06/2018 — Present)
+* Architected and deployed microservices utilizing Python and C++, resulting in a 43% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 18k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 17%.
+
+Junior Software Engineer | Robbins, Dawson and Briggs (07/2016 — 05/2018)
+* Developed and maintained core features using React and CI/CD, resolving over 58 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Columbia University — B.S. Software Engineering (Class of 2016)
+Cumulative GPA: 3.9 / 4.00
+Member, Software Engineering Student Association

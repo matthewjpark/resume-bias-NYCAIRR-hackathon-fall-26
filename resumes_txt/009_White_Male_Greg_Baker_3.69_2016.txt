@@ -1,0 +1,21 @@
+GREG BAKER
+Email: greg.baker@example.com | Phone: (592) 850-8915 | Location: New York, NY 10013
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Git, Python, Node.js, TypeScript, PostgreSQL, GraphQL
+Spoken Languages: English (Native), French (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Hart Ltd (06/2018 — Present)
+* Architected and deployed microservices utilizing Git and Python, resulting in a 23% reduction in latency.
+* Led a cross-functional team of 5 engineers to overhaul internal API infrastructure, improving throughput to 32k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 22%.
+
+Junior Software Engineer | Miller, Torres and Ward (07/2016 — 05/2018)
+* Developed and maintained core features using TypeScript and PostgreSQL, resolving over 108 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Carnegie Mellon University — B.S. Computer Science (Class of 2016)
+Cumulative GPA: 3.69 / 4.00
+Member, Software Engineering Student Association

@@ -1,0 +1,21 @@
+RAHUL SHARMA
+Email: rahul.sharma@example.com | Phone: (331) 484-2042 | Location: Flushing, NY 11355
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: AWS, PostgreSQL, C++, Node.js, Kubernetes, MongoDB
+Spoken Languages: English (Native), Mandarin (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Simpson, Allen and Stewart (06/2022 — Present)
+* Architected and deployed microservices utilizing AWS and PostgreSQL, resulting in a 30% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 40k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 20%.
+
+Junior Software Engineer | Garcia, Soto and Jones (07/2020 — 05/2022)
+* Developed and maintained core features using Node.js and Kubernetes, resolving over 52 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+UC Berkeley — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.39 / 4.00
+Member, Society of Asian Scientists and Engineers (SASE)

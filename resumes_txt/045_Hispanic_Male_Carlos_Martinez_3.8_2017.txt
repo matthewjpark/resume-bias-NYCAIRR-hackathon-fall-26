@@ -1,0 +1,21 @@
+CARLOS MARTINEZ
+Email: carlos.martinez@example.com | Phone: (509) 894-6450 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Python, C++, Java, AWS, React, Node.js
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Ruiz Inc (06/2019 — Present)
+* Architected and deployed microservices utilizing Python and C++, resulting in a 38% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 46k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 24%.
+
+Junior Software Engineer | Parks, Reynolds and Miranda (07/2017 — 05/2019)
+* Developed and maintained core features using AWS and React, resolving over 93 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Stanford University — B.S. Software Engineering (Class of 2017)
+Cumulative GPA: 3.8 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

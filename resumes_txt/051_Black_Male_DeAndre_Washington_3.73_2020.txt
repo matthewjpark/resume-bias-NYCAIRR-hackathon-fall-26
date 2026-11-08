@@ -1,0 +1,21 @@
+DEANDRE WASHINGTON
+Email: deandre.washington@example.com | Phone: (273) 692-1948 | Location: Brooklyn, NY 11207
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, TypeScript, C++, AWS, PostgreSQL, Kubernetes
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Monroe-Garza (06/2022 — Present)
+* Architected and deployed microservices utilizing MongoDB and TypeScript, resulting in a 34% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 41k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 30%.
+
+Junior Software Engineer | Banks, White and Obrien (07/2020 — 05/2022)
+* Developed and maintained core features using AWS and PostgreSQL, resolving over 105 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+UC Berkeley — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.73 / 4.00
+Member, National Society of Black Engineers (NSBE)

@@ -1,0 +1,21 @@
+LATOYA HARRIS
+Email: latoya.harris@example.com | Phone: (781) 923-8027 | Location: Brooklyn, NY 11212
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, Docker, React, TypeScript, Python, Kubernetes
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Gibson, Clark and Obrien (06/2021 — Present)
+* Architected and deployed microservices utilizing MongoDB and Docker, resulting in a 45% reduction in latency.
+* Led a cross-functional team of 7 engineers to overhaul internal API infrastructure, improving throughput to 31k requests/min.
+* Implemented continuous integration pipelines using React, lowering deployment failure rates by 30%.
+
+Junior Software Engineer | Richardson Inc (07/2019 — 05/2021)
+* Developed and maintained core features using TypeScript and Python, resolving over 112 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION & ORGANIZATIONS
+MIT — B.S. Computer Science (Class of 2019)
+Cumulative GPA: 3.75 / 4.00
+Member, National Society of Black Engineers (NSBE)

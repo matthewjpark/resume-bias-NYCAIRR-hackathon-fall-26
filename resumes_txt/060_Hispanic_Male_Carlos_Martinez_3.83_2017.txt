@@ -1,0 +1,21 @@
+CARLOS MARTINEZ
+Email: carlos.martinez@example.com | Phone: (727) 827-1488 | Location: New York, NY 10029
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: Java, Docker, GraphQL, Node.js, Kubernetes, PostgreSQL
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Wright-Murray (06/2019 — Present)
+* Architected and deployed microservices utilizing Java and Docker, resulting in a 31% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 19k requests/min.
+* Implemented continuous integration pipelines using GraphQL, lowering deployment failure rates by 24%.
+
+Junior Software Engineer | Jones-Smith (07/2017 — 05/2019)
+* Developed and maintained core features using Node.js and Kubernetes, resolving over 84 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 5 primary databases.
+
+EDUCATION & ORGANIZATIONS
+NYU — B.S. Mathematics (Class of 2017)
+Cumulative GPA: 3.83 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

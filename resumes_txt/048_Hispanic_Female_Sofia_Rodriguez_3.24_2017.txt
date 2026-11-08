@@ -1,0 +1,21 @@
+SOFIA RODRIGUEZ
+Email: sofia.rodriguez@example.com | Phone: (778) 797-8443 | Location: Bronx, NY 10454
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, C++, PostgreSQL, AWS, CI/CD, TypeScript
+Spoken Languages: English (Native), Spanish (Fluent)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Walton Group (06/2019 — Present)
+* Architected and deployed microservices utilizing MongoDB and C++, resulting in a 42% reduction in latency.
+* Led a cross-functional team of 4 engineers to overhaul internal API infrastructure, improving throughput to 10k requests/min.
+* Implemented continuous integration pipelines using PostgreSQL, lowering deployment failure rates by 26%.
+
+Junior Software Engineer | Taylor-Hale (07/2017 — 05/2019)
+* Developed and maintained core features using AWS and CI/CD, resolving over 116 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 2 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Cornell University — B.S. Mathematics (Class of 2017)
+Cumulative GPA: 3.24 / 4.00
+Member, Society of Hispanic Professional Engineers (SHPE)

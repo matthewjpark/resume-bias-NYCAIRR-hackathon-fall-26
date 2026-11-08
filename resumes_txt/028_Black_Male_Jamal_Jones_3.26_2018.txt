@@ -1,0 +1,21 @@
+JAMAL JONES
+Email: jamal.jones@example.com | Phone: (777) 278-7270 | Location: Brooklyn, NY 11207
+
+TECHNICAL SKILLS & LANGUAGES
+Languages & Tools: MongoDB, AWS, C++, React, Python, Java
+Spoken Languages: English (Native), Swahili (Conversational)
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Lawson and Sons (06/2020 — Present)
+* Architected and deployed microservices utilizing MongoDB and AWS, resulting in a 36% reduction in latency.
+* Led a cross-functional team of 6 engineers to overhaul internal API infrastructure, improving throughput to 31k requests/min.
+* Implemented continuous integration pipelines using C++, lowering deployment failure rates by 21%.
+
+Junior Software Engineer | Miller LLC (07/2018 — 05/2020)
+* Developed and maintained core features using React and Python, resolving over 82 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION & ORGANIZATIONS
+Carnegie Mellon University — B.S. Software Engineering (Class of 2018)
+Cumulative GPA: 3.26 / 4.00
+Member, National Society of Black Engineers (NSBE)
