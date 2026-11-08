@@ -1,6 +1,9 @@
 #API key
 api_key.py
 
+#other
+resumes_inactive
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
