@@ -1,0 +1,19 @@
+TODD SMITH
+Email: todd.smith@example.com | Phone: (209) 540-5712 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: C++, AWS, Node.js, CI/CD, MongoDB, React
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Stone, Kelly and Wright (06/2022 — Present)
+* Architected and deployed microservices utilizing C++ and AWS, resulting in a 39% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 17k requests/min.
+* Implemented continuous integration pipelines using Node.js, lowering deployment failure rates by 17%.
+
+Junior Software Engineer | Conley LLC (07/2020 — 05/2022)
+* Developed and maintained core features using CI/CD and MongoDB, resolving over 79 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+MIT — B.S. Computer Science (Class of 2020)
+Cumulative GPA: 3.93 / 4.00

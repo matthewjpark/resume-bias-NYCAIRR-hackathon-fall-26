@@ -1,0 +1,19 @@
+TANISHA LEWIS
+Email: tanisha.lewis@example.com | Phone: (604) 695-2180 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: Docker, MongoDB, Java, React, Git, C++
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Diaz, Tucker and Henry (06/2017 — Present)
+* Architected and deployed microservices utilizing Docker and MongoDB, resulting in a 37% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 15k requests/min.
+* Implemented continuous integration pipelines using Java, lowering deployment failure rates by 27%.
+
+Junior Software Engineer | Medina-Mann (07/2015 — 05/2017)
+* Developed and maintained core features using React and Git, resolving over 115 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 3 primary databases.
+
+EDUCATION
+Cornell University — B.S. Mathematics (Class of 2015)
+Cumulative GPA: 3.78 / 4.00

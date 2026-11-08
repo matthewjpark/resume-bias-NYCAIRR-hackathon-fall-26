@@ -1,0 +1,19 @@
+TODD SMITH
+Email: todd.smith@example.com | Phone: (774) 788-1737 | Location: New York, NY
+
+TECHNICAL SKILLS
+Languages & Tools: React, Docker, Python, Java, C++, MongoDB
+
+PROFESSIONAL EXPERIENCE
+Software Engineer | Daniels and Sons (06/2022 — Present)
+* Architected and deployed microservices utilizing React and Docker, resulting in a 45% reduction in latency.
+* Led a cross-functional team of 8 engineers to overhaul internal API infrastructure, improving throughput to 38k requests/min.
+* Implemented continuous integration pipelines using Python, lowering deployment failure rates by 21%.
+
+Junior Software Engineer | Patterson-Marquez (07/2020 — 05/2022)
+* Developed and maintained core features using Java and C++, resolving over 71 critical platform tickets.
+* Collaborated with senior engineers to optimize SQL queries, enhancing data retrieval speeds across 4 primary databases.
+
+EDUCATION
+NYU — B.A. Information Technology (Class of 2020)
+Cumulative GPA: 3.43 / 4.00
