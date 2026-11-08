@@ -3,6 +3,7 @@ api_key.py
 
 #other
 resumes_inactive
+resumes_test
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
