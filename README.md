@@ -29,6 +29,19 @@ Resume Bias is an application where fake resumes are designed to test ChatGPT to
     
 5. Generate ratings with OpenAI
 6. Analyze the results to see differences
+After generating the CSV from OpenAI, we need to parse the data into columns for analyze.py. To do this, run convert.py and input the name of your file. After the file is converted, it should be called output-fileName.csv. Then you will run analyze.py with the new csv to generate tables by race, gender, and the base. It will also generate p-values to determine significance (p < 0.05)
+   ```bash
+   python convert.py
+   ```
+   ```text
+   What is your csv file name? fileName
+   ```
+   ```bash
+   python analyze.py
+   ```
+   ```text
+   What is your csv file name? output-fileName
+   ```
 
 ## Team
 Wesley Pang ([Github](https://github.com/Wesley25Pang05))
